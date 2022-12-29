@@ -1,0 +1,7 @@
+<ul>
+    {% for author in site.authors | sort %}
+    <li>
+        <a href="/blog/authors/{{author.short_name}}">{{author.name}}</a>
+    </li>
+    {% endfor %}
+</ul>

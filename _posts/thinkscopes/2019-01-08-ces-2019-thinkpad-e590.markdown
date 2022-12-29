@@ -1,0 +1,34 @@
+---
+author: jonashendrickx
+date: 2019-01-08 02:00:49+00:00
+slug: ces-2019-thinkpad-e590
+title: 'CES 2019: ThinkPad E590'
+category: lenovo
+tags:
+- thinkpad e590
+---
+If you're at a budget, the ThinkPad E-series are the first in line if you want access to a TrackPoint. Let's what's new for the ThinkPad E590.
+
+The processor options do not disappoint. You will be able to choose between the Intel Core i3-8145U, i5-8265U and i7-8565U. The fastest model has 4 cores, 8 threads, a base clock of 1.8 GHz, and a turbo clock of 4.5 GHz with a cache of 8 MB. Intel is tweaking the turbo boost to compete with AMD.
+
+The integrated graphics will be a Intel UHD Graphics 620 and may offer small clock speed improvements over the last generation. The AMD RX-550X is a rebranded AMD RX-550 with the same memory configuration options and a 5-7% increase in performance.
+
+There are still 2 SODIMM slots to fit DDR4 2400MHz modules, giving you a total of 32GB RAM.
+
+2 basic display panel options are available. There is a Full HD panel at 250 nits, which is slightly higher than the basic 220 nits HD-panel.
+
+The SSD will be only half as fast as the X1-series and the P-series, given that they only have 2x PCIe lanes dedicated to them. This will give a theoretical bandwidth of 16 Gb/s. Still fast enough right? You can either install two M.2 SSDs or one hard drive. Hardware level RAID configurations are not supported.
+
+The Ethernet controller is made by Realtek, a R8111GUS.
+
+The WLAN options do not include 802.11ax yet, which is understandable if the routers cost nearly as much as your laptop. The Realtek card is a RTL8822BE while the Intel card is a Intel Wireless-AC 9260. The Intel card supports Bluetooth 5.0, while the Realtek card uses Bluetooth 4.2.
+
+The chassis uses the exact same dimensions. The ThinkPad E590 is roughly 19.9 mm thick, and weighs only 2.12 kg.
+
+There are two colors available being black and silver. The display cover uses an aluminum, while the base is made out of PC/ABS plastic.
+
+For smart card reader, you may want to look at the ThinkPad L-series or higher.
+
+No ThinkShutter or IR camera is available for the ThinkPad E590.
+
+Because of the higher clock speeds of the rebranded components while maintaining the same battery capacity, battery life is about 1 hour lower than its predecessor, the ThinkPad E580.

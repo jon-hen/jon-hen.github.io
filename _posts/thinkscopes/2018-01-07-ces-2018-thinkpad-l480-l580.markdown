@@ -1,0 +1,115 @@
+---
+author: jonashendrickx
+date: 2018-01-07 07:00:21+00:00
+slug: ces-2018-thinkpad-l480-l580
+title: 'CES 2018: ThinkPad L480 & L580'
+category: lenovo
+---
+The ThinkPad L-series are considered the budget series of ThinkPad used in corporate environments. The E-series are more aimed at entertainment with their faster GeForce graphics cards. The L-series offer slightly better displays than the E-series.
+
+
+## ThinkPad L480
+
+
+The ThinkPad L480 comes with Kaby Lake Refresh processors, and is the direct successor to the ThinkPad L470.
+
+The graphics card in the ThinkPad L480 is the Intel UHD 620. There is an optional discrete graphics card, the [AMD Radeon 530](https://www.amd.com/en/products/graphics/radeon-530). The ThinkPad L470 also had a discrete graphics card from AMD available, the AMD R5-M430. The AMD Radeon 530 is based on Polaris and can come either with 2GB of DDR3 or GDDR5 memory. There is a theoretical maximum memory bandwidth of 48GB/s. The Intel UHD Graphics 620 is only 21% slower in synthetic benchmarks, we do expect the difference to be higher in real world scenario's such as gaming.
+
+![ThinkPad L480 left side](/assets/img/posts/thinkscopes/2018/01/09_Thinkpad_L480_STD_Camera_Tour_Left_side_profile.png) ThinkPad L480 left side
+
+There are two camera choicesin the ThinkPad L480. You can either choose the 720p camera or go with the optional IR camera which will allow facial recognition.
+
+There are two memory slots in the ThinkPad L480, allowing up to 2 16GB DDR4 SODIMM modules at 2400MHz.
+
+![ThinkPad L480 right side](/assets/img/posts/thinkscopes/2018/01/08_Thinkpad_L480_STD_Camera_Camera_Tour_Right_side_profile.png) ThinkPad L480 right side
+
+The ThinkPad L480 still uses 2.5" drives. Standard it will come with a hard drive, but the ThinkPad L480 is also upgradable with a PCIe SSD, making it an interesting budget choice.
+
+Battery life is quite impressive at 12 hours with a 45 Wh battery. It is unclear with configuration is used here. I suspect this is with the integrated graphics card. The ThinkPad L470 lasted 14.48 hours with the 6-cell 48 Wh battery. The ThinkPad L470's battery life was up to 21.72 hours with the 72 Wh battery. Possibly Lenovo sacrificed battery life to make the ThinkPad L470 thinner. I feel 12 hours is still acceptable for a budget model. RapidCharge is available for faster charging.
+
+![ThinkPad L480 with ThinkPad Ultra Dock](/assets/img/posts/thinkscopes/2018/01/14_Thinkpad_L480_STD_Camera_Closeup_Mechanical-Docking-Station.png) ThinkPad L480 with ThinkPad Ultra Dock
+
+The WWAN card is a Fibocom L850-GL or L830-EB. Linux support is unclear at this point. We are still waiting for an answer on this matter.
+
+The display choices are either a HD TN-panel or a FHD IPS panel which can be either touch or non-touch.
+
+I/O Ports:
+
+
+
+ 	
+  * 2x USB-C
+
+ 	
+  * 2x USB 3.0
+
+ 	
+  * 4-in-1 Micro SD card reader (SD, MMC, SDHC, SDXC)
+
+ 	
+  * HDMI 1.4
+
+ 	
+  * Headphone and microphone combo jack
+
+ 	
+  * RJ45
+
+
+The ThinkPad L480 starts at 1.68 kg and is 200g lighter than its predecessor. The ThinkPad L480 is 22.5 mm thin compared to the ThinkPad L470 at 23.9 mm.
+
+
+## ThinkPad L580
+
+
+The ThinkPad L580 is the 15" model of the ThinkPad L-series. It also comes with the quad core Kaby Lake Refresh processors which is surprising as the L-series were sometimes limited to Intel Core i5 models in the past.
+
+![ThinkPad L580](/assets/img/posts/thinkscopes/2018/01/25532190_910163635823537_6216916281685732192_o.jpg) ThinkPad L580
+
+The ThinkPad L580 uses the same graphics options as its smaller brother, the ThinkPad L480: An Intel UHD 620 or a AMD Radeon 530.
+
+Surprisingly, there is no option for an IR camera. Only a 720p camera is available. This would make sense, as I don't believe the IR camera is available in L-series ThinkPads. It wouldn't make much sense in the product lineup. Take the ThinkPad L480 configuration options above with a grain of salt too until we get more clarity on this.
+
+![ThinkPad L580 left side](/assets/img/posts/thinkscopes/2018/01/09_Thinkpad_L580_STD_Camera_Tour_Left_side_profile.png) ThinkPad L580 left side
+
+The ThinkPad L580 has two SODIMM slots for up to 16GB DDR4 2400MHz modules, giving a total of 32 GB RAM.
+
+Battery life is slightly lower than the ThinkPad L480, being 11 hours with a 45Wh battery. The ThinkPad L570 lasts 14.8 hours on a 48Wh battery. RapidCharge is available for faster charging.
+
+![ThinkPad L580 right side](/assets/img/posts/thinkscopes/2018/01/08_Thinkpad_L580_STD_Camera_Tour_Right_side_profile.png) ThinkPad L580 right side
+
+The ThinkPad L580 also still uses 2.5" HDD drives but also has options to upgrade to a 512GB PCIe SSD.
+
+There are two options for the WWAN-card, a Fibocom L850-GL or L830-EB.
+
+I/O Ports:
+
+
+
+ 	
+  * 2x USB-C
+
+ 	
+  * 2x USB 3.0
+
+ 	
+  * VGA
+
+ 	
+  * 4-in-1 Micro SD card reader (SD, MMC, SDHC, SDXC)
+
+ 	
+  * HDMI 1.4
+
+ 	
+  * Headphone and microphone combo jack
+
+ 	
+  * RJ45
+
+
+There are several display options to choose from. You can either go with a HD TN-panel or a FHD IPS-panel with is either touch or non-touch.
+
+![](/assets/img/posts/thinkscopes/2018/01/12_Thinkpad_L580_Tour_Birdseye_B_C_cover.png)
+
+The ThinkPad L570 was quite thick at 30.85 mm. Its successor the ThinkPad L580 comes at 22.95 mm. Weight has also been reduced to 2 kg by 0.38 kg.

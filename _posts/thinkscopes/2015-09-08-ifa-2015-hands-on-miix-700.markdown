@@ -1,0 +1,129 @@
+---
+author: jonashendrickx
+date: 2015-09-08 00:23:58+00:00
+slug: ifa-2015-hands-on-miix-700
+title: 'IFA 2015: Hands-on Miix 700'
+category: lenovo
+---
+[![](/assets/img/posts/thinkscopes/2015/09/miix700_1.jpg)](/assets/img/posts/thinkscopes/2015/09/miix700_1.jpg)
+
+The Miix 700 can be seen as a Surface clone but then better and more affordable. The Miix 700 costs about 100 USD less than Microsoft's Surface.
+
+What is visible from the start when comparing it with the Surface PRo 3, is that the Miix 700 has plenty more ports to serve you. This means you will end up buying less adapters in the end compared to buying a traditional tablet, an iPad or the Surface Pro 3. The very expensive adapters of the Surface are also likely going to set you back.
+
+At the back, the Miix 700 has a kickstand, which is used to make the tablet stand. The kickstand is attached to the tablet using the watchband hinge. The watchband hinge was invented last year with the release of the Yoga 3 Pro. Lenovo told us that the watchband hinge has been slightly revised to be even more durable.
+
+The keyboard dock of the Miix 700 is removeable and can be detached. You can choose to lay flat the keyboard completely on the table. Or you can stick the top of the keyboard to the Miix 700 so the keyboard rises from the table. This way the keyboard doesn't feel very flat at all.
+
+[![](/assets/img/posts/thinkscopes/2015/09/miix700_2.jpg)](/assets/img/posts/thinkscopes/2015/09/miix700_2.jpg)
+
+Here are the specifications we got from our hands-on:
+<table >
+<tbody >
+<tr >
+
+<td >Processor
+</td>
+
+<td >Intel Core m7 processor (6th gen)
+</td>
+</tr>
+<tr >
+
+<td >Memory
+</td>
+
+<td >Up to 8GB RAM
+</td>
+</tr>
+<tr >
+
+<td >Graphics card
+</td>
+
+<td >Intel HD Graphics
+</td>
+</tr>
+<tr >
+
+<td >Storage
+</td>
+
+<td >256GB SSD
+</td>
+</tr>
+<tr >
+
+<td >Camera
+</td>
+
+<td >
+
+
+
+  * Front: 5MP
+
+  * Rear: 5MP
+
+
+
+</td>
+</tr>
+<tr >
+
+<td >Display
+</td>
+
+<td > 12" FHD+ (2160x1440 3:2)
+</td>
+</tr>
+<tr >
+
+<td >Ports
+</td>
+
+<td >
+
+
+
+  *  1x USB3.0
+
+  * 1x USB2.0
+
+  * Micro HDMI-out
+
+  * Micro SIM (LTE/3G)
+
+  * microSD
+
+  * Audio combo jack
+
+
+
+</td>
+</tr>
+<tr >
+
+<td >Weight
+</td>
+
+<td >1.7 lbs (0.78 kg)
+</td>
+</tr>
+<tr >
+
+<td >Dimensions
+</td>
+
+<td >11.49" x 8.27" x 0.35" (292 x 210 x 8.95 mm)
+</td>
+</tr>
+</tbody>
+</table>
+The display has a 3:2 display ratio, which makes it more comfortable to use in tablet mode. The first generation ThinkPad Helix was a little bit awkwardly shaped when it came to using it as a standalone tablet without the dock. The 16:9 display ratio would make it very long shaped. The 3:2 display ratio of the Miix 700 makes it very comfortable to use in portrait mode or land mode.
+
+The display resolution also has been increased from 1920x1200 to 2160x1440 over its predecessor, making it a beautiful and worthy successor to its older sibling.
+
+Lenovo claims the Miix 700 can play videos up to 9 hours. Which is quite impressive.
+
+What do you think of the Miix 700? Let us know in the comments.

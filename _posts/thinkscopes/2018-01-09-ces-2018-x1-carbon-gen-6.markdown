@@ -1,0 +1,65 @@
+---
+author: jonashendrickx
+date: 2018-01-09 07:00:21+00:00
+slug: ces-2018-x1-carbon-gen-6
+title: 'CES 2018: ThinkPad X1 Carbon Gen 6'
+category: lenovo
+---
+The ThinkPad X1 Carbon Gen 6 isn't going through many changes this year.
+
+The obvious change you can expect with Intel Kaby Lake Refresh is the introduction of 15W TDP quad core processors. This means multi threaded performance is even faster. How it will play out in reality we still have to wait out.
+
+The Lenovo ThinkPad X1 Carbon Gen 6 has up to 16GB LPDDR3 2133MHz of soldered RAM.
+
+![](/assets/img/posts/thinkscopes/2018/01/26170687_913629332143634_8500948123393858165_o.jpg)
+
+It does have a new display option for a extremely bright 2560x1440p display at 500 nits. This means that using your X1 Carbon outdoors becomes more comfortable as the higher brightness can hide the screen reflections. It is possible that this new screen is branded to have Dolby Vision support. Support for this will come in the next Windows 10 release, it is currently available as a Windows Insiders build. Aside from that we are also seeing a new optional Full HD touch screen.
+
+Do note that the battery life in the new 500-nit panel is the same as the 300-nit panel due to various improvements. OLED panel has been dropped due to its high impact on battery life.
+
+![](/assets/img/posts/thinkscopes/2018/01/26171716_913629275476973_8748224756301475629_o.jpg)
+
+The ThinkPad X1 Carbon Gen 6 is also receiving a new feature, called ThinkShutter. We've all seen those paranoid people in the office taping their webcams unprofessionally. Newsflash, if someone has hacked your webcam, they also have access to your personal data. Well hey, tell them to buy an X1 Carbon and use the new ThinkShutter to cover the webcam when not in use.
+
+The front camera has a 1280x720p resolution. The IR-camera is optional for face recognition. However, the camera should still be better than the average laptop considered my past experience having owned several X1 Carbons.
+
+![ThinkPad X1 Carbon Gen 6 Webcam Cover](/assets/img/posts/thinkscopes/2018/01/16_Thinkpad_X1_Carbon_Thinkshutter_Black_BlackBG.png) ThinkPad X1 Carbon Gen 6 Webcam Cover
+
+There is also a new mechanical CS18 docking connector which provides native Ethernet. This is similar to how it was in the past with the Ethernet adapter cable. If you're interested in the new '[**ThinkPad Ultra Dock**](/blog/2018/01/12/ces-2018-thinkpad-ultra-dock/)', the part number is '**40AJ135XX**'
+
+![Lenovo ThinkPad X1 Carbon Gen 6 Dock](/assets/img/posts/thinkscopes/2018/01/14_Thinkpad_X1_Carbon_Closeup_Mechanical_Docking_Station_Black.png) [Lenovo ThinkPad X1 Carbon Gen 6 Dock](/blog/2018/01/12/ces-2018-thinkpad-ultra-dock/)
+
+
+
+Battery capacity should remain the same at 57Wh, however battery life slightly reduces similar to other models by half an hour. This might have to do with the new Kaby Lake Refresh quad core processors.
+
+The ThinkPad X1 Carbon Gen 6 also comes with a different WWAN-card this year, no longer a Sierra Wireless card, but a Fibocom L850-GL.
+
+
+
+
+## I/O Ports
+
+
+
+
+
+ 	
+  * 2x USB 3.0
+
+ 	
+  * 2x Intel® Thunderbolt™ 3
+
+ 	
+  * Headphone and microphone combo jack
+
+ 	
+  * 4-in-1 micro SD card reader (SD, MMC, SDHC, SDXC)
+
+ 	
+  * HDMI
+
+ 	
+  * Docking connector (for native ethernet)
+
+

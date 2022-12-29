@@ -1,0 +1,340 @@
+---
+author: ibmthink
+date: 2014-12-22 17:43:22+00:00
+slug: '809'
+title: ThinkPad T440s Review
+category: lenovo
+---
+# Introduction
+
+
+I know you may think that it is pointless to write a detailed late review about the T440s, when CES 2015 is only two weeks away. But even if the ThinkPad T440s is nearly superseded, there is no reason why it should be forgotten. Also, since i use my ThinkPad T440s almost everyday i guess i can give you some detailed insights and commentary about this machine, which might be useful for people whom may be considering buying this machine during the end of model run out sale. So let's not waste time and jump straight into the ThinkPad T440s review right now!!!
+
+The T440/s/p was first announced for the Japanese, Hong Kong Education and Germany market in July 2013. For the rest of the world, the T440s was announced at the beginning of September of 2013, along with the other new Haswell ThinkPad machines. The T440s went on sale in most countries by October of 2013. I was lucky enough to get my ThinkPad T440s in September 2013 (replacing the faithful T430u), and i used this machine almost daily ever since. If my magic 8 ball is correct, Lenovo will be announcing the new Broadwell replacement model for the T440/s/p line up at the CES 2015. But i am not sure if i want to replace my T440s with a T450s or try something more exotic like the ThinkPad Yoga or X1 Carbon Gen 2's replacement (the review of which... cough cough).
+
+
+# Specifications
+
+
+<table width="812" style="height: 545px" >
+<tbody >
+<tr >
+CPU
+
+<td >Intel Core i5-4200U (Dual-Core, max. 2.6 GHz)
+</td>
+</tr>
+<tr >
+GPU
+
+<td >Intel HD 4400 (Haswell GT2, 20 EUs)
+</td>
+</tr>
+<tr >
+RAM
+
+<td >12 GB DDR3L (1.35 V) - 4 gigs soldered - 8 gigs removable
+</td>
+</tr>
+<tr >
+Storage
+
+<td >500 GB 2.5 inch 7 mm HDD + 128 gigs 42mm M.2 SSD
+</td>
+</tr>
+<tr >
+Display
+
+<td >1920x1080 (FHD) matte 14" screen, IPS, 300 nits
+</td>
+</tr>
+<tr >
+Ports
+
+<td >
+
+
+
+  * 3x USB 3.0 (one powered)
+
+  * VGA
+
+  * mDP (1.2)
+
+  * Combined Audio Jack
+
+  * 4-in-1 SD Card-Reader
+
+  * 2013 Docking Port
+
+
+
+</td>
+</tr>
+<tr >
+Connections
+
+<td >Intel Centrino Wireless 7260N (AC optional), WWAN upgradeable, Gigabit Ethernet
+</td>
+</tr>
+<tr >
+Battery
+
+<td >6 cell battery (3 cells as an integrated battery, 3 cells, as an external battery), 47 Wh in total
+</td>
+</tr>
+<tr >
+Operating System
+
+<td >Originally with no OS preinstalled, currently Windows 10 Technical Preview
+</td>
+</tr>
+<tr >
+Keyboard
+
+<td >6 rows ThinkPad Precision Backlit Keyboard
+</td>
+</tr>
+</tbody>
+</table>
+
+
+# Design
+
+
+The release of the T440s in 2013 was a signal that Lenovo was undertaking a huge change in the design language of the T440/s/p, much like in year 2009 with the T400s. To be chronologically correct, the T440s design followed on from the T431s that was released several months earlier in selected markets. While, there were many huge design changes both internally and externally, i wouldn't call the design 'revolutionary', to me it was more of an 'evolutionary' development, which sort of marked the history of ThinkPad since its first creation. The T440s was simply following the same direction set in the 2009 refresh, evolving into an cleaner, simpler and more minimalistic design.
+
+For many ThinkPadders the most noticeable differences from inspecting the exterior of the laptop is the color change to the external casing. The T440s comes in Graphite Black instead of the former pure carbon black. There were also additional changes in the color palettes, such as hints of blue color were all removed from the machine, even the blue color of the USB 3.0 ports were removed in favour of the black colored USB ports (they were marked with SS to identify them as USB 3.0). The T440s had a new color palette, which is black/grey/white/red (TrackPoint). Even the hinges were no longer silver in colour, but instead it was anodised with a darker greyish silver colour, which blended in better with the rest of the laptop chassis color. Personally, i think the new choice of color palette made the ThinkPad design more subtle and more upmarket, far less industrial (which may or may not be something you like).
+
+The new design also brings the new five buttons ClickPad (a really contentious design - but more on that later), and the display latches were also removed (like on the X220 and T430u). The traditional ThinkVantage button was removed as well as the whole ThinkVantage bar - the multimedia functions are now integrated into the keyboard. The design is also boxier and less rounded at the bottom compared with the T420s/T430s. A special feature of the T440s that no other model other than the X1 Carbon has, is its very slim display bezels.
+
+Overall, I think the subtle design changes are nice, especially the convergence towards the simple minimalistic design - it make the ThinkPad feels more upmarket, but yet retaining that classic ThinkPad charm. The principles of the ThinkPad design are all there, only slightly more modernized (the red stripes on the TrackPoint buttons, the silver hinges, the black case, the smile shape keys, the boxy looks, etc).
+
+
+# Build Quality/Chassis/Hinges
+
+
+One of the most important attributes of ThinkPads are its build quality and toughness, and i am glad to say that these attributes are not lost on the T440s. The entire chassis feel solid and there are no annoying creaks, or squeaks when you hold the laptop by its edge with one hand (and with screen opened). The lack of creaks and squeaks are the direct result of two things:
+
+
+
+  * Reduced weight of the machine
+
+  * Increased structural rigidity
+
+
+Reducing the weight of T440s was a tough thing to do for ThinkPad designers and engineers, since you could not sacrifice structural stiffness in your pursuit for weight loss. While uses of really exotic materials are kept to bare minimum to help to keep the price of T440s reasonable. So Lenovo engineers had to come up with really ingenious ideas to make the T440s light as possible, whilst using the same type of materials that they are already using in the T430s, and package them slightly differently to make the machine lighter. Lenovo designers changed the T440s chassis design by using the structural skin design or monocoque, where the loads are entirely supported through the external skin of the chassis. Using this design means that they can increase internal volume for electronics, and reduces the overall thickness of the machine by removing unnecessary empty space.
+
+The bottom cover of T440s is made out of magnesium alloy (like the T4x0s machines before it), to be more exact it is AZ01D magnesium alloy. The palm rest is made out of slightly rubberized ABS plastic directly bonded/riveted to a single piece magnesium subframe, which saved weight and allows it to act as part of the structural skin. This makes the T440s the first T4x0s (well T431s was the first to be more precise) to use this kind the magnesium exoskeleton/structural skin structure. In the former T4x0s machines, the palmrest was made of ABS plastics, which did not give much structural rigidity to the chassis body. As such, the early T4x0s (T400s and T410s) suffered from frequent palmrest cracking due to the excessive bending moment that develops in the chassis when the ThinkPads are carried with one hand. Later T420s and T430s used a single piece keyboard bezel and palmrest, which slightly increased the structural rigidity of the machine, but it was still a stop gap measure till the totally new ThinkPad T440s.
+
+The display bezel of the T440s is made out of non-rubberized ABS plastic, which helps to increase the wireless signal strength (strong wireless performance is hallmark of ThinkPads). The top display cover is made of carbon fiber reinforced polymer (CFRP) reinforced with subsections of glass fiber reinforced polymer (GFRP), which makes the top screen cover of the T440s extremely strong. Apparently, the CFRP used in the ThinkPad T440s top cover has similar carbon fiber weave pattern and denier as those used in Boeing Dreamliner fuselage body and F1 Racecar chassis. The inherent stiffness and strength of the CFRP/GFRP screen cover, allows Lenovo to reduce the thickness of the screen case to only 5 mm (including LCD assembly), compared with the 8 mm thick top screen case of the T430s. Despite the thinness of the screen case, it is actually stiffer than the T430s screen case. The increased stiffness of the screen case means that there is very little bending even when apply a large load to the screen case, which should directly translates to reduced probability of LCD breakage during falls. The top screen cover is not rubberised like the old ThinkPad T4x0s that proceeded it, instead there is very smooth coating, which is slightly soft but not as rubbery as lids of old ThinkPads. The good thing with this coating, is that it is easy to clean (also reduce finger smudges) and has higher wear resistance.
+
+The use of better manufacturing processes also directly translated to better build quality of the T440s. I have compared it with the T420, and the T440s clearly wins out in the following:
+
+  * The hinges are more stable (they are drop-down now, but you can still open them 180°)
+
+  * The display does not flexes as much, even though it is thinner
+
+  * The palm rest flex is much better on the T440s (there is virtually no palm rest flex, only over the Smart Card slot a little bit), due to the direct bonding of the Magnesium Structure Frame to the plastic palmrest
+
+  * The chassis does not creak in some corners like on the T420
+
+  * The materials also feel much more premium compared with the T420 and the lid material feels better as well
+
+  * There is no keyboard flex at all - completely rigid
+
+
+What is also really nice, is the rubber lip around the display, which prevent dusts and dirt from coming inside the T440s when it is closed. The rubberised lip also prevents screen from cracking when people close the screen too hard (something that many people do).
+
+One additional note: Due to the smaller bezels, the T440s is also smaller in dimension compared to the previous T4x0s. The T440s shares about the same breadth and width as the Z61t (which was a very compact 14 inch ThinkPad machine). When compared to the T420 and T430u, the dimension figures are also follows:
+
+  * T440s: 331 x 226 x 20,6 mm
+
+  * T420: 340 x 232 x 29 mm
+
+  * T430u: 340 x 236 x 21 mm
+
+
+The ThinkPad T440s weighs in at 1.6 kg with the 3 cells (internal) + 3 cells (removable) battery configuration, making it the lightest ThinkPad T series ever - it almost feels like carrying a 12.5" ThinkPad. The weight distribution of the T440s is perfect, with 3 cells removable battery at the back, and the internal 3 cells battery at the front end, you can almost balance the machine on one finger. This perfect weight distribution means that you can also open the ThinkPad T440s lid with just one hand.
+
+
+# Display
+
+
+The T440s with the FHD LCD is just beautiful! Tears were welling in my eyes when I first saw it. No more compromises between thinness and crappy display. In my machine, I have the LG IPS display, which is very, very good compared with older 14" ThinkPad screens using abysmal TN panels.
+
+The colors are bright and nicely saturated, the blacks are really black, not dark grey like on some other 14" LCD (wink in the direction of my old T430u). It needs no calibration! It is already near perfection coming from the factory. There is also no "screen door" effect, fonts are very sharp and crisp due to the high resolution. I have no problems viewing them on 100% scaling. Other people may prefer lower resolution, but for me this is the perfect resolution for this display-size. The viewing angles are very good, but not perfect: from extreme angles, the picture becomes a bit darker, but that is typical for laptop IPS panels.
+
+I have taken some pictures of the screen:
+
+[![T440s_1](](/assets/img/posts/thinkscopes/2014/12/T440s_1.jpg)](/assets/img/posts/thinkscopes/2014/12/T440s_1.jpg)
+
+
+
+[![T440s_2](](/assets/img/posts/thinkscopes/2014/12/T440s_2.jpg)](/assets/img/posts/thinkscopes/2014/12/T440s_2.jpg)
+
+[![T440s_5](](/assets/img/posts/thinkscopes/2014/12/T440s_5.jpg)](/assets/img/posts/thinkscopes/2014/12/T440s_5.jpg)
+
+Some comparison pictures with the T420 screen (HD):
+
+[![T440s-T420_4](](/assets/img/posts/thinkscopes/2014/12/T440s-T420_4.jpg)](/assets/img/posts/thinkscopes/2014/12/T440s-T420_4.jpg)
+
+[![T440s-T420_5](](/assets/img/posts/thinkscopes/2014/12/T440s-T420_5.jpg)](/assets/img/posts/thinkscopes/2014/12/T440s-T420_5.jpg)
+
+Lenovo use two different FHD screen models in the T440s: one made by AUO and another made by LG (as seen in my machine). Some people have reported that they found the AUO screen to be much better, but I disagree, as the AUO screen has too much backlight bleed, which is not something you want in a display. The only weakness with the LG screen is the loss of brightness at extreme viewing angle, but who views a display at more than 160 degrees angle?
+
+Overall, the FHD LG screen is really nice and if you are considering a T440s or a T440p, getting the Full HD IPS screen is highly recommended - it truly makes the images come alive, compared with the standard TN screen.
+
+
+# Keyboard
+
+
+As already mentioned in the specs, the T440s uses the 2013 version of the ThinkPad Precision keyboard, which first debuted in 2011 with the ThinkPad X1. My T440s has the backlit version, which means that the keys are not coated or matte (which also means that the keys doesn't get glossy over time). They key travel should be around 1.8 mm, like the T430u (compared to 2.5mm on the T420). The tactility of the key is impressive, I like it very much, and the key travel is just perfect, while the smile-shaped keys are nice to type on. The layout is nearly the same, the only difference is the 6th row: After many people requested it, Lenovo reintroduced Fn grouping of the F-key groups, which is good for many touch typists. As I mentioned before, the multimedia buttons are now integrated into the 6th row (but playback control has gone missing). The multimedia and function shortcuts are the primary functions now, the F1-F12 functions must now be accessed via using the FN button. If you use the F keys often like me, that is not very good, but Lenovo also added a new feature: The FnLk. By pressing Fn + Esc, you can change between the F1-F12 keys being primary or the multimedia functions being primary (this is also saved if you reboot the system, you don´t have to activate the FN Lock every time you restart). If you use it with the F keys being primary like me, the mulitmedia functions are accessible via FN. The layout change from 7 to 6 rows was discussed to ad nauseam with the year 2012 ThinkPad refresh, for me personally, i like the 6-row layout more (and you can disagree with my view). I got used to the 6 rows keyboard pretty quickly, since i am quite young, and so changing from 7 rows to 6 rows was not a big problem for me. The new keyboard also has the PgUp and PgDn keys next to the keyboard direction keys, which makes life easier for people like me.
+
+Also the keyboard on the T440s has two factory option, a version with backlight and a version without, i optioned my T440s with the LED backlight version. This is the first ThinkPad that i own to have backlight keyboard, and I like it even more than the ThinkLight on my T430u or my R60.
+
+Also a notable mention is the spill resistant protection of the T440s. According to Lenovo, the new spill resistant keyboard on the T440s can accommodate up to 500 ml of liquid before the system board will be affected by liquid ingression. I can not independently verify this claim, but Lenovo has a video to show this magic at work ([LENOVO VIDEO](https://www.youtube.com/watch?v=0U5n2WaMMHo)). So how did Lenovo do this you may ask? The magic happens in the design stage, Lenovo isolated the keyboard tray from the mainboard/electronics by using a specially enclosed tray, where only the keyboard cable has direct access to the planar board compartment through a special rubber cable guide. This isolated keyboard tray is what allows the T440s to resist up to 500 ml of liquid spill. Also the specially shaped water drainage hole on the bottom of the laptop help to reduce the water surface tension, which increases the volume flow rate of water from the keyboard tray. All these ingenious design helps to keep your laptop safe from damages caused by water spill.
+
+See this picture:
+
+[![keyboardalkxf](/assets/img/posts/thinkscopes/2014/12/keyboardalkxf.jpg)](/assets/img/posts/thinkscopes/2014/12/keyboardalkxf.jpg)
+
+However, like all things in life there are tradeoffs present. The use of the water resistant keyboard spill tray means that swapping keyboards is not as easy as before. The keyboard's screw must be accessed from the top, and is covered by a slide cover mechanism. To remove the keyboard, you have to slide back the frame between the keys and loosen several screws hidden between the keys. This new frame mechanism was slightly shifted on my T440s when I took it out of its box. Since the frame wasn't aligned correctly from factory, some keys creaked when i typed on them - but I solved it very quickly by aligning the frame correctly. Also, for the ThinkPad keyboard fanatics, there are now two different keyboard manufacturers: LiteOn and Chicony. The keyboard that was shipped with my ThinkPad was the Chicony keyboard, which I subsequently replaced with a LiteOn keyboard - in general, I would recommend the LiteOn keyboard, as the typing experience was better, the keyboard also felt sturdier and the keys resisted smudges more easily than the Chicony keyboard.
+
+
+# TrackPad/TrackPoint
+
+
+The use of the new hybrid ClickPad was the controversial changes in the 2013 ThinkPad design changes. All the Haswell ThinkPads released in 2013 featured a giant glass ClickPad with integrated TrackPoint and TouchPad buttons. But thankfully with the release of the new ThinkPad Broadwell machine, Lenovo has signaled the return discrete TrackPoint buttons (aka. the W550s, the W541 and the Helix 2).
+
+About the new hybrid ClickPad/TouchPad itself: Yes, the clicking sound is a bit annoying when you first use it, but you will soon get used to it (it is about as loud as a normal mouse click). The surface of the ClickPad has a very nice frosted rubbersied glass surface finish, much better than the old "dimple" design that was used on the previous ThinkPad T4x0s. Scrolling on the new ClickPad is very smooth, and I can imagine many TouchPad users will welcome the bigger TouchPad area. If you are a TouchPad user interested in ThinkPads, then the new generation ClickPad should be a nice step forward from the past ThinkPad TouchPad.
+
+Now, about the TrackPoint: The 3 dedicated buttons have disappeared, instead, now everything is integrated into the ClickPad. The left and right buttons are marked with red stripes, the middle button with some small bumps (resembling those found on the old TrackPoint middle buttons). The ClickPad recognizes where you have clicked on the touch surface to distinguish the left, middle and right click. In the Windows driver, you can choose between 3 buttons sizes for the right and the middle button: Normal, Large, and Full. If you select full (only available if you are using the "Classic TrackPoint only" mode in the driver), the whole right half of the TouchPad becomes a right click zone, and the left side is the left click zone.
+
+For me, it works just as well as the old design with some practice - especially if you disable the TouchPad in the BIOS, which is still possible. You may disagree or agree with me, its just my personal opinion from using the T440s for nearly 16 months. If you have tried this setup and are not happy with it, you may want to wait and see what Broadwell ThinkPad refresh next year brings...(hint hint).
+
+
+# Fan / Temperature
+
+
+Is there a fan inside? I barely recognize it.
+
+Here are the 6 different fan states:
+Fan 0 - 0 rpm
+Fan 1 - 2570 rpm
+Fan 2 - 3690 rpm
+Fan 3 - 3880 rpm
+Fan 4 - 4010 rpm
+Fan 5 - 4594 rpm
+Fan 6 - 5190 rpm
+
+The fan is very quiet, and barely on. Fan state 1 is really nice and silent, fan state 4 starts to get really annoying. But it is still less annoying then the platter HDD, which on my machine constantly makes a clicking sound (not sure if it is normal or not)!
+
+Now on the temperatures: It stays totally cool while doing office work or surfing the web without videos. The surfaces are very cool. When you play a game (I played Civilisation 4 to test it), then yes, it gets hot/warm, especially at the right side right around the heat vents, and the fan is also working overtime to push enough air through. But, even then, the rest of the laptop stays nice and cool. In normal usage scenario for these kind of machine, the machine should be nice and cool, you can definitely use it on your lap. Of course if you are constantly using the T440s with synthetic benchmark, or playing latest games on it, then the laptop may heat up, but this is not these machines are designed to do.
+
+
+# Battery / Power Usage
+
+
+After buying the T440s, the battery life was around 5-6 hrs with the 3 + 3 battery configuration. However, due to a steady decrease of the battery capacity of the external battery over the last 16 months of use (it has 75 % left now), the battery run time is around 4 hrs now - I don´t use battery saver mode, so i imagine the battery would last longer if i used the battery saver mode.
+
+
+# Benchmarks
+
+
+[CrystalMark 2004R3](http://crystalmark.info/software/CrystalMark/index-e.html):
+[](http://forum.notebookreview.com/attachments/lenovo/102265d1379859940-thinkpad-t440s-review-crystalmark.png)
+[![CrystalMark](/assets/img/posts/thinkscopes/2014/12/CrystalMark1.png)](/assets/img/posts/thinkscopes/2014/12/CrystalMark1.png)
+
+(this was made with platter HDD though)
+
+Windows Performance Index:
+
+[![Windows-Performance-Index-T440s](/assets/img/posts/thinkscopes/2014/12/Windows-Performance-Index-T440s.png)](/assets/img/posts/thinkscopes/2014/12/Windows-Performance-Index-T440s.png)
+
+
+# Audio
+
+
+While not the most important aspect of a business notebook, it is still nice to have: Reasonably good speakers. For comparison purpose, the T440s speakers are much louder and crisper sound than the speakers found on either the T420 and T430u. Of course, if you want to entertain people with amazing sound in a party, i suggest you connect the T440s to a nice set of external speakers. But for private movie viewing, or some background music whilst working, then the T440s speakers are more than adequate.
+
+
+# Maintenance
+
+
+ThinkPad from its very inception in 1992, always had easy access to the internal components (relative to the competitors) - and the T440s is no different. All components, beside the screen and the keyboard, are accessible from under the magnesium base cover (which is a nice thing about the structural skin structural design). After removing the single base cover (see below for removal instructions), you have access to everything: The RAM (one DIMM slot), the HDD/SSD, depending on the model, the various M.2 modules (SSD, UMTS, WLAN, etc.), the fan, the internal battery and so on. All of these parts other than the last two mentioned are CRUs (customer replaceable units), which means if they are broken, you are free to replace them by yourself without having to fear for warranty loss.
+
+A look inside:
+
+[![wp_201309231jbkg4](](/assets/img/posts/thinkscopes/2014/12/wp_201309231jbkg4.jpg)](/assets/img/posts/thinkscopes/2014/12/wp_201309231jbkg4.jpg)
+
+The base cover:
+
+[![WP_20141222_18_48_40_Pro](](/assets/img/posts/thinkscopes/2014/12/WP_20141222_18_48_40_Pro.jpg)](/assets/img/posts/thinkscopes/2014/12/WP_20141222_18_48_40_Pro.jpg)
+
+**Note:** The first removal of the back cover is a bit difficult, since it is not only held in place by screws, but also by plastic latches. It took me nearly 20 minutes to take off the base cover. You have to be careful not to break the plastic latches, so if you never done it before, it is best that you follow [the HMM](http://download.lenovo.com/ibmdl/pub/pc/pccbbs/mobiles_pdf/t440s_hmm_en_sp40a25360_01.pdf) when you first service the T440s.
+
+
+# Additional Points
+
+
+
+
+
+  * Lenovo in their pursuit for minimalistic design, has removed pretty much all traces of LED indicators. So the only indicators left on the system are LED power indicators (on the power button), LED status indicator on the ThinkPad logo's letter i, speaker/mic mute buttons, LED on Fingerprint reader and Fn lock button. Oh and the red i on the screen case ThinkPad logo will blink when the power cable is first attached.
+
+  * The Fingerprint sensor is now made by Validity, no longer from Authentec (which have been brought out by Apple for exclusive use). This means: You can't turn on the the laptop using the one finger swipe feature anymore (because the new Fingerprint reader does not have the Power on Authentication Feature).
+
+
+
+
+# Pictures
+
+
+[![T440s_6](](/assets/img/posts/thinkscopes/2014/12/T440s_6.jpg)](/assets/img/posts/thinkscopes/2014/12/T440s_6.jpg)
+
+
+[![T440s_4](](/assets/img/posts/thinkscopes/2014/12/T440s_4.jpg)](/assets/img/posts/thinkscopes/2014/12/T440s_4.jpg)
+
+[![T440s_7](](/assets/img/posts/thinkscopes/2014/12/T440s_7.jpg)](/assets/img/posts/thinkscopes/2014/12/T440s_7.jpg)
+
+[![T440s_8](](/assets/img/posts/thinkscopes/2014/12/T440s_8.jpg)](/assets/img/posts/thinkscopes/2014/12/T440s_8.jpg)
+
+In comparison with the T420:
+
+[![T440s-T420_1](](/assets/img/posts/thinkscopes/2014/12/T440s-T420_1.jpg)](/assets/img/posts/thinkscopes/2014/12/T440s-T420_1.jpg)
+
+[![T440s-T420_2](](/assets/img/posts/thinkscopes/2014/12/T440s-T420_2.jpg)](/assets/img/posts/thinkscopes/2014/12/T440s-T420_2.jpg)
+
+[![T440s-T420_3](](/assets/img/posts/thinkscopes/2014/12/T440s-T420_3.jpg)](/assets/img/posts/thinkscopes/2014/12/T440s-T420_3.jpg)
+
+
+# Verdict
+
+
+In short, the things I like about the new T440s are:
+
+
+
+  * The new FHD AHVA Display
+
+  * The keyboard with better layout and spill resistance
+
+  * The quality of the chassis
+
+  * The TouchPad compared to former ThinkPad TouchPad
+
+  * The new latch-less screen closure system
+
+  * The heat management
+
+  * The speakers
+
+  * New chassis design
+
+
+The bad things...which bad things? Oh, I am not the biggest fan of using plastic clips to secure the bottom cover (but i understand why they are used - to make the bottom case have a tighter fit and finish).
+
+After using my ThinkPad T440s for so long, I am still impressed by my T440s. I am curious how Lenovo can improve on the near perfect T440s in the next Broadwell update. The T440s has been the best ThinkPad i have had so far, so to improve on the near perfect form won't easy.
+
+**What do you think of the T440 series? And did you like this long overdue review? Post your comments below!**

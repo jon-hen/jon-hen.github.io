@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<div class="col-lg-12">
+  <div class="card">
+      <div class="card-body">
+        <div class="row mb-3">
+          <div class="col-sm-auto">
+            <img class="author-profile-img" src="{{site.url}}/assets/img/authors/{{page.avatar}}" alt="{{page.name}}" />
+          </div>
+          <div class="col-sm-8">
+            <h1>{{ page.name }}</h1>
+            <h2>{{ page.position }}</h2>
+        
+            {{ page.bio }}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-12">
+            <h2>Posts</h2>
+            <ul>
+              {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
+              {% for post in filtered_posts %}
+                <li><a href="{{ post.url }}">{{ post.date | date: "%b %-d, %Y" }} - {{ post.title }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
+  </div>
+</div>

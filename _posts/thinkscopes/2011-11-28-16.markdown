@@ -1,0 +1,91 @@
+---
+author: jinli
+date: 2011-11-28 13:55:21+00:00
+slug: '16'
+title: Apple Wireless Keyboard
+category: tech
+tags:
+- Apple
+---
+**Rating:** 6.5/10
+
+
+
+
+**Price:** $50 (normally $75 AUD)
+
+**Pros:**
+
+
+
+  * Attractive design
+
+  * Small form factor (no numpad)
+
+  * Light and portable
+
+
+**Cons:**
+
+
+
+  * Poor key tactility
+
+  * Quality of the key mechanism leaves a lot to be desired
+
+  * The keyboard may bounce slightly when you type it with too much force
+
+  * Direction buttons are too small
+
+
+**Verdict:** While the design of the keyboard looks attractive, the key tactility and feel is leaves a lot to be desired when compared to the regular wired Apple keyboard. If you are considering to use this as a desktop keyboard for your desktop or docked laptop, then you are probably better served by other brands of wireless keyboard (with bluetooth connection) on the market. However, if you have an iPad or an iPhone, etc, then for portability factor sake, this maybe something you should consider getting so you can get consistent Apple branding on your accessories.
+
+![](http://images.apple.com/keyboard/images/hero_1_20091020.jpg) Picture 1. Side profile of the Apple Wireless Keyboard (taken from Apple website). [1]
+
+
+### **Review**
+
+
+I got this keyboard during a sales event at Officework (similar to Staple), which marked down the price of Apple wireless keyboard from $75 to $50, since Apple accessories like this rarely go on sales, i naturally obeyed my impulsive instinct to make a purchase (i also purchased the Apple Magic Trackpad and the Apple wired keyboard). I also purchased an extra 2 years direct replacement warranty from Officework for 10 dollars extra, which is much cheaper than the 17 dollars a year that Dick Smith normally charges.
+
+![](http://images.apple.com/keyboard/images/hero_2_20091020.jpg) Picture 2. The Apple Wireless Keyboard product image taken from Apple website. [1]
+
+
+When i got home, i unwrapped the keyboard packaging and i was shocked by the somewhat broken upper direction key on the keyboard, so put everything back in the packaging box and i drove back to the Officework store, and requested a direct replacement. I then unwrapped the packaging and took out the keyboard, and i was shocked that the keyboard had a similar defect, and the store manager told me that this shouldn’t affect the functionality of the keyboard, if it does just take it back and they will do the on the spot direct replacement. So i went home with this somewhat broken keyboard, and proceeded to live with this defect until i can get a perfect replacement.
+
+
+
+
+[![](http://thinkorama.files.wordpress.com/2011/07/img_0485.jpg?w=914&h=685)](http://thinkorama.files.wordpress.com/2011/07/img_0485.jpg) Picture 3. The Apple Wirelss Keyboard that i got.
+
+[![](http://thinkorama.files.wordpress.com/2011/07/img_0486.jpg?w=448&h=336)](http://thinkorama.files.wordpress.com/2011/07/img_0486.jpg) Picture 4. The upper direction button problem that i mentioned.
+
+The bluetooth connection setup for this keyboard is pretty much effortless with both Windows or Apple Mac OS, which is a good thing and something many Apple products are renowned for.
+
+[![](http://thinkorama.files.wordpress.com/2011/07/img_0487.jpg?w=448&h=336)](http://thinkorama.files.wordpress.com/2011/07/img_0487.jpg) Picture 5. The underside of the Apple Wireless Keyboard, the greyish shroud should be the cover for the wireless electronic components.
+
+The moment i started typing on the keyboard, i noticed that the key tactility of this keyboard is really awful, the key doesn’t give the same level of tactility as those Apple wired keyboards, nor does it give a crisp sound when depressed, all of which ruins the typing experience. Also, the direction button on the keyboard is way too small, the up and down direction button have to be fully depressed to register an input.
+
+[![](http://thinkorama.files.wordpress.com/2011/07/img_0493.jpg?w=336&h=448)](http://thinkorama.files.wordpress.com/2011/07/img_0493.jpg) Picture 6. The area where the green LED status light is (near impossible to see when the LED is off).
+
+However, you got to hand to Apple industrial designer for designing the keyboard, everything seemed to be perfectly trimmed and proportioned, nothing on the keyboard seemed to be out of place. The aluminium keyboard frame on the keyboard is also silky smooth, and adds to the appeal of this keyboard from the design point of view. Another igneous thing on the keyboard, is the bluetooth status light, which is nearly impossible to see when off, as they are hidden behind the aluminium frame under many microscopic holes (each hole probably have a nominal diameter of 0.1 mm or so) perforated using high powered lasers.
+
+[![](http://thinkorama.files.wordpress.com/2011/07/img_0497.jpg?w=448&h=336)](http://thinkorama.files.wordpress.com/2011/07/img_0497.jpg) Picture 7. Size comparison of the Apple wireless keyboard (with the Magic Touchpad) with the Apple wired keyboard with numpad.
+
+Additionally, the lack of numpad allows the mouse to be placed closer to the keyboard, which decreases muscle fatigue when using the keyboard for extended period of time. The keyboard itself complements the Apple Magic Touchpad (which i also bought) in both design and actual use, but i find real mouse is better when used with design apps like Photoshops, etc.
+
+[![](http://thinkorama.files.wordpress.com/2011/07/apple-compact-wired-keyboard.jpg?w=290&h=308)](http://thinkorama.files.wordpress.com/2011/07/apple-compact-wired-keyboard.jpg) Picture 8. The Apple Wired Keyboard with the same design as the Apple Wireless Keyboard (old image from Apple website).
+
+
+# **Conclusion**
+
+
+Apple put a lot of effort into designing this keyboard in terms of the form, but not enough consideration was put towards the functionality of the keyboard (i.e. the poor design of the direction button). Also, the keyboard’s low quality key mechanism ruins the typing experience, and makes it somewhat a chore to use for typing up long documents. If only Apple was to use the same key mechanism from the wired keyboard on this wireless model, then this would be the ultimate ultra thin small form factor keyboard on the market.
+
+[![](http://thinkorama.files.wordpress.com/2011/07/applekeyboard-3.png?w=484&h=162)](http://thinkorama.files.wordpress.com/2011/07/applekeyboard-3.png) Picture 9. My idea of the perfect Apple wireless keyboard.
+
+References:
+
+[1] [http://www.apple.com/keyboard/](http://www.apple.com/keyboard/)
+
+

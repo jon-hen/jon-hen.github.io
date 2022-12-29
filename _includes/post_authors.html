@@ -1,0 +1,5 @@
+<ul class="list-group list-group-flush">
+  {% for author in site.authors %}
+    <li class="list-group-item"><a href="{{ author.url }}">{{ author.name }}</a></li>
+  {% endfor %}
+</ul>

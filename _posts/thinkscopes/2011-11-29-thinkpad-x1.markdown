@@ -1,0 +1,126 @@
+---
+author: jinli
+date: 2011-11-29 07:25:55+00:00
+slug: thinkpad-x1
+title: ThinkPad X1 Review
+category: lenovo
+tags:
+- ThinkPad
+- ThinkPad X1
+---
+
+# [![](/assets/img/posts/thinkscopes/2011/11/lenovo-thinkpad-x1.jpg)](/assets/img/posts/thinkscopes/2011/11/lenovo-thinkpad-x1.jpg)Review
+
+So now we come to the fun 08bit of this X1 review, which is to actually review the ThinkPad X1. The ThinkPad X1 that i received from Lenovo has the following specifications.
+
+  * Intel i5-2520M CPU
+  * 4 gigs of ram (8 gigs is the largest stick of RAM it would take)
+  * 320 gigs 7200 rpm 7 mm HDD (you can opt for a 160 gigs SSD)
+  * WWAN upgradable (the slot can also be used for the mSATA cards)
+  * Intel 6205 wireless card (2x2), upgradeable to Intel 6300 as there are 3 antennas.
+  * Bluetooth 3.0
+  * 13.3 inch 1366 x 768 HD LCD with Corning Gorilla Glass cover
+  * Full magnesium alloy casing for both screen and base.
+  * Integrated SMB Lithium Polymer Rapid Charge Battery
+  * Stereo Mic with Noise Cancelling feature
+  * 720p integrated camera
+  * Security Chip
+  * Windows 7 Pro 64 bit
+  * 90 Watts power adapter 	
+  * 3 years back to base warranty
+
+In Australia, there is also the option for the i3 and i7 dual core CPU (the latter of which should be available at the end of August 2011). For some strange reason Lenovo ANZ has priced the ThinkPad X1 at about the same price to that of the US market with little price discrimination, which represents an extremely good buy. I have not really figured out why that is the case, i assume that Lenovo ANZ wanted to compete more effectively in this market segment relative to the Apple MBP and other similar laptops, and that they have taken account that the Australian dollars is at an all time high. Initially i was slightly taken back by the low price of the ThinkPad X1 price, as i expected this machine to be priced in the vicinity of $1900 to $2000 AUD, when taking account how Lenovo ANZ usually prices the product relative to the US market. As such i think this is a great opportunity for purchasing this machine in Australia, without having to consider grey imports and what not.
+
+Since i have already taken the machine out of the packaging and the box, i won't bother with showing all the unboxing experience and what not (which i hate to do anyway). But if you want to get an idea of what it is like to box the machine, then please refer to the following Youtube video done by Lenovo Social for your viewing pleasure.
+
+[![](http://thinkorama.files.wordpress.com/2011/08/x1-10l-1.jpg)](http://thinkorama.files.wordpress.com/2011/08/x1-10l-1.jpg)
+
+**Picture 1**. The ports selection on the ThinkPad X1 (taken from Lenovo website).
+
+**Casing Design, Quality of Construction and Surface Finish**
+
+What impressed me the most about the ThinkPad X1 is the quality of construction and the level of attention paid to designing the external casing of the machine. From the way the ThinkPad X1 is designed, you could tell that the Lenovo design/engineering team wanted to match or exceed the Macbook Pro Unibody in terms of construction quality and casing parts tolerance.
+
+Apple is able to achieve the industry leading fit and finish on their MBP and MBA, by applying a lot of good design methodologies learnt from various other manufacturing industries over the years, then distilled the essence of these learning experience and applied to their laptop designs. Apple MBP and MBA have the following design elements to ensure that their leadership in the industry in terms of casing product:
+
+  * Extensive use of aluminium, which is very machinable, stiff and cost effective (compare to say titanium).
+  * Reducing the use of screws to hold together external parts.
+  * Rounded corners.
+  * Reducing the number of external casing parts (the base of the MBP unibody is effectively constructed of only pieces) that need to be fitted together.
+  * Use of aluminium sheet stamping.
+  * The main structure of the MBP unibody is precision milled (using a three axis CNC machine) out of a single billet of aluminium. 	
+  * Eliminating the use of polymer as much as possible in the main external casing structure, which has a different coefficient of expansion to that of glass and aluminium.
+
+Lot of manufacturing technologies that Apple employed in the construction of the MBP/MBA already existed in one form and another for many years already. However, Apple is the only computer company in history to use them on such a massive scale, while at the same time keeping the cost low enough to be used in a mass produced consumer product. I think Lenovo team has drawn upon some of these proven methodologies during the design and construction of the ThinkPad X1.
+
+After using the ThinkPad X1 for a few days, it is clear that the Lenovo design team have aimed for the following design objectives:
+
+  * Beautiful casing design
+  * Thin and Light
+  * High quality fit and finish
+  * Effective heat dissipation
+  * High structural rigidity
+  * Maintaining the traditional ThinkPad bento box design as much as possible, but remain attractive to non-ThinkPad users 	
+  * More importantly keeping it at an affordable price
+
+Obviously, designing for the first four design objectives are quite easy, you could just copy the industry leader's design and produce another Envy like machine. However, if Lenovo have taken the path that some other manufacturers did then it would lose the essence of good design and most importantly the ThinkPad soul. As such Lenovo had to come up with their own unique design, while at the same time keep to their original design objectives that they have set out. As such the Lenovo design team probably drew upon the experiences and lessons learnt from their past mistakes and applied them along with industry's best practices into the ThinkPad X1 machine design. Lenovo design team incorporated the following features into their X1 machines:
+
+  * Using an all magnesium alloy construction for the top and bottom casing to increase rigidity of the entire laptop structure.
+  * Using an ultra flat one piece palmrest/keyboard bezel to allow a seamless finish (the internal magnesium rollcage is integrated into the keyboard bezel).
+  * Use Corning Gorilla Glass and magnesium alloy top cover to increase the rigidity of the ultra thin screen casing (obviously this is also done to attract other non Thinkpad users whom may like this sort of design).
+  * Eliminated the underside RAM access bay to increase bottom case rigidity (probably explains why the laptop have only one ram slot). This may also been done to achieve a seamless look.
+  * Using the 4 perfectly shaped rubber feet underneath the laptop, like that of the new MBP Unibody.
+  * Using the integrated Li-polymer battery reduces structural weak spot in the bottom casing, it also allowed the laptop to be thinner. 	
+  * Reduces the number of screws holes on the screen bezel to give a smoother visual styling.
+
+[![](http://thinkorama.files.wordpress.com/2011/08/mbp-and-x1-underside-comparision.png)](http://thinkorama.files.wordpress.com/2011/08/mbp-and-x1-underside-comparision.png)
+
+**Picture 2.** Underside comparison of the ThinkPad X1 and the MBP Unibody, X1 uses similar round rubber pads as the MBP Unibody.
+
+All of these design elements came together to produce what i think is the best quality ThinkPads in the last 10 years, and shows that the Lenovo design team under SVP David Hill still got the right stuffs.
+
+[![](http://thinkorama.files.wordpress.com/2011/08/side-profile-of-the-x1-compared-to-a-carrying-tray.png)](http://thinkorama.files.wordpress.com/2011/08/side-profile-of-the-x1-compared-to-a-carrying-tray.png)
+
+**Picture 3. **The profile of the ThinkPad X1 shows a resemblance to a carrying tray (X1 picture taken from Lenovo website).
+
+[![](http://thinkorama.files.wordpress.com/2011/08/030-01.jpg)](http://thinkorama.files.wordpress.com/2011/08/030-01.jpg)
+
+**Picture 4**. The Traditional Bento Box design of the ThinkPad X1 (taken from Lenovo blog).
+
+One of the most interesting aspect of the ThinkPad X1 casing design is the fact that the chassis shape does not in anyway resemble a Bento Box (Picture 4), but rather it has a much closer resemblance to the profile of a traditional wooden carrying tray (as shown in picture 3). Personally i think the carrying tray shaped design is better, as it allows you to grab and hold the laptop more easily as compare to the traditional Bento Box shaped traditional ThinkPad, but some people may loath it and such.
+
+Another striking thing about the ThinkPad X1 is the type of surface finish it employs, it is not really rubberised but it is a matte surface finish, which feels like the Matte surface of the typical LCD. My friend said this could be a type of phosphate coating doped with Manganese (which is the metallic specks in the matte finish), but i am not sure the validity of this claim and i have no way to really prove it. But i must say i really love this type of surface finish, it exudes quality and is something that should be used in all future ThinkPads from now on. While, the matte surface finish is relatively smooth, it does give you the right amount of friction that many people like about the traditional ThinkPad rubbery surface finish without it been sticky. Another thing i observed about the external surface finish on the ThinkPad X1, is the easy with which you can clean the surface and its resistance to attracting dusts, which is one of the negative aspects of traditional ThinkPad rubberised surface finish. However, be warned this surface finish is still a magnet for oil, so if you have an oily hand, then it would show up as smudges, but the positive side is the fact that you can clean these smudges off relatively easily.
+
+[![](http://thinkorama.files.wordpress.com/2011/08/img_0584.jpg)](http://thinkorama.files.wordpress.com/2011/08/img_0584.jpg)
+
+**Picture 5**. The keyboard key on my X1 is already showing oil smudges.
+
+The ThinkPad X1's one piece keyboard bezel and palmrest is completely flat and it has a nice high quality rubberised surface that is even and have no surface blemishes, but it is a oil magnet and is slightly hard to clean off using just plain water. The keyboard's surface finish is different from other ThinkPad Classic (i will discuss about the keyboard feel and all that in another part of the X1 review), it has a smooth surface finish but for some reason it attracts a lot of oil from fingers, and it is slightly hard to keep it clean (which is not a good design).
+
+[![](http://thinkorama.files.wordpress.com/2011/08/x220-and-x1-comparision1.png)](http://thinkorama.files.wordpress.com/2011/08/x220-and-x1-comparision1.png)
+
+**Picture 6. **ThinkPad X220 compared to the ThinkPad X1 (take from 51nb.com and Lenovo Website).
+
+[![](http://thinkorama.files.wordpress.com/2011/08/gap-x1.png)](http://thinkorama.files.wordpress.com/2011/08/gap-x1.png)
+
+**Picture 7. **Illustration to show what i mean by Gap width.
+
+Personally i think Lenovo design team is aiming this laptop as a business grade alternative to the Macbook Pro Unibody, as such the X1 have stepped up a few notches in terms of overall build quality and overall fit & finish. You can really tell the differences in the build quality of the X1 by trying to see whether you can pass an A4 standard thickness paper (measured with micrometer to be 0.10 mm) between the gap. On normal ThinkPads you could do this fairly easily as the gap width is usually between 0.6 mm to 1.7 mm, and the industry leading Macbook Pro Unibody 13 - 15 inch usually have a gap width of about 0.3 to 0.7 mm, which is absolutely amazing. So i am astounded (or should i say gob-smacked) that the ThinkPad X1 beat the MBP Unibody machines in terms of having a smaller gap width. On my ThinkPad X1 machine, the left side of my ThinkPad X1 the gap width was about 0.3 mm and on the right side it was less than 0.05 mm (which is thinner than the diameter of my hair).
+
+![](http://thinkorama.files.wordpress.com/2011/08/x1-compare-to-mbp.png)
+
+**Picture 8. **ThinkPad X1 compared to the MBP Unibody in side profile (Apple picture taken from Apple.com).
+
+From the various crude mechanical testings that i have done, I think Lenovo have made the right decision to use the Corning Gorilla glass on the ThinkPad X1, as it increases the structural08 rigidity of the screen casing by a significant amount, which would definitely decrease the incidences of LCD damages through user abuses. The LCD casing structure is strong enough to support the entire weight of the laptop, as I could lift the laptop up simply holding onto the screen with it fully opened (as shown in Picture 7). However, the hinge (the hinge is metallic with a phosphate coating) did NOT seem to be able to hold up to such abuse, even if the screen was happy to oblige with the abusive testing method. The use of Gorilla Glass also allows for the convenient cleaning of the screen surface with just regular soapy water, which i typically do not use with the traditional Matte Screen, as they tend to have wears off the matte surface quicker than the special formulated LCD cleaning solutions. Oh another good thing about the Glass surface design, is that it reduces the chances of dusts getting into the LCD panel itself, which occurs quite frequently if do not clean the LCD regularly.
+
+[![](http://thinkorama.files.wordpress.com/2011/08/1305166647-usr17748.jpg)](http://thinkorama.files.wordpress.com/2011/08/1305166647-usr17748.jpg)
+
+**Picture 9**. The ThinkPad X1 with the screen fully opened to 180 degrees. (Picture taken from Lenovo website).
+
+The removal of the bottom case ram slot access door and the Ultrabay slot allowed the Thinkpad X1 to have amazing structural rigidity, i could lift up the laptop by holding onto one corner the laptop and i could not detect any significant bending in the case frame. The right side of the laptop showed slightly more bending than the left side, due to the existence of the hdd access bay.
+
+[![](http://thinkorama.files.wordpress.com/2011/08/port-cover.png)](http://thinkorama.files.wordpress.com/2011/08/port-cover.png)
+
+**Picture 10**. Port cover on the ThinkPad X1.
+
+While i like most elements of the exterior design, there is however something that really bugs me to no end, which is the existence of the rubber access door for covering the combo headphone/mic and usb 2.0 ports, as shown in Picture 7. I am not sure why Lenovo design team decided to have that contraption there, as it serves no real purpose other than to hide the unsightly jacks on the side and palmrest plastic latch. It is a hindrance and often gets in your way when you want to plug in a headphone or usb into the ports behind that rubber cover and it is also very unsightly, i wish Lenovo design would take that port cover off or put a better design version in that does not get in your way when you want to use the ports underneath it. Overall, i really like the external design of the ThinkPad X1 and the superb fit and finish it has, currently this is the best quality ThinkPad that i have owned and used. At the price it is retailing at in Australia, it represents one of the best value ThinkPad yet to land in Australia and a worthy successor to the ThinkPad X300/X301 machine. In part 2 of the review, i will be discussing the performance, heat management, noise, and internal layout of the ThinkPad X1.

@@ -1,0 +1,132 @@
+---
+author: jonashendrickx
+date: 2018-01-07 07:00:55+00:00
+slug: ces-2018-thinkpad-t480-t580
+title: 'CES 2018: ThinkPad T480 & T580'
+category: lenovo
+---
+
+
+Both the ThinkPad T480 and ThinkPad T580 are getting the new USB-C docking station that is directly connected to Thunderbolt 3.
+
+
+## ThinkPad T580
+
+
+The ThinkPad T580 is a 15" T-series ThinkPad as the name indicates. I own a [ThinkPad T560](/blog/2016/04/04/thinkpad-t560-review/) myself, in my opinion, the [T560](/blog/2016/04/04/thinkpad-t560-review/) was too large, too heavy and too slow with a 15W TDP processor. However, maybe Kaby Lake Refresh offers a different perspective with its new quad core processors in the 15W TDP segment.
+
+That being said, we're also seeing the successor to the Nvidia GeForce 940MX here, the Nvidia GeForce MX150 with 2GB GDDR5. The Intel UHD 620 is slightly faster than the Intel HD 620, however it might actually benefit from a quad core.
+
+![](/assets/img/posts/thinkscopes/2018/01/09_Thinkpad_T580_Tour_Right_side_profile.png)
+
+![](/assets/img/posts/thinkscopes/2018/01/08_Thinkpad_T580_Tour_Left_side_profile.png)
+
+As for the display we have 3 options:
+
+
+
+ 	
+  * Full HD non-touch IPS
+
+ 	
+  * Full HD touch IPS
+
+ 	
+  * UHD (3840x2160) non-touch IPS
+
+
+You can choose between a 720p camera with ThinkShutter or a IR camera without ThinkShutter. ThinkShutter is the new privacy webcam cover. This is one of the most innovative things Lenovo has introduced to ThinkPad since the purchase of the brand. One of my personal favorites after the dual screen workstation laptop ThinkPad W700ds and W701ds.
+
+![](/assets/img/posts/thinkscopes/2018/01/06_Thinkpad_T580_Hero_Front_Forward_Facing_JD_HD_Camera.png)
+
+Back on track, we have two SODIMM slots that take DDR4 SODIMMs at 2400MHz.
+
+Battery life is up to 27 hours with a dual battery. The external battery can be hot swapped while the laptop is still on, giving you some extra juice. This could be useful on those very long flights.
+
+![](/assets/img/posts/thinkscopes/2018/01/12_Thinkpad_T580_Tour_Birdseye_A_D_cover.png)
+
+The dimensions and weight remain the same for the ThinkPad T580 at 1.97kg and 365.8 x 252.8 x 19.95 mm
+
+I/O Ports:
+
+
+
+ 	
+  * Intel® Thunderbolt™ 3
+
+ 	
+  * USB-C
+
+ 	
+  * 2x USB 3.0
+
+ 	
+  * HDMI
+
+ 	
+  * Headphone and microphone combo jack
+
+ 	
+  * 4-in-1 micro SD card reader (SD, MMC, SDHC, SDXC)
+
+ 	
+  * RJ45
+
+
+There are also two choices for the WWAN card, the Fibocom L850-GL and L830-EB. I have contacted Lenovo about these two cards and their compatibility with Linux. Not much is known about them.
+
+
+## ThinkPad T480
+
+
+![ThinkPad T480](/assets/img/posts/thinkscopes/2018/01/t480_1-512x371.jpg)
+
+The ThinkPad T480 is the entry level T-series laptop. It was always behind slightly in available display configurations. Now we are seeing a WQHD (2560x1440) IPS display panel on top of existing choices a outdated HD (1366x768) TN-panel and a more mainstream Full HD IPS touch/non-touch panel. The Full HD IPS display panel is available in both touch and non-touch.
+
+![](/assets/img/posts/thinkscopes/2018/01/12_Thinkpad_T480_Tour_Birdseye_B_C_cover.png)
+
+Grapics card is nothing special. With the previous ThinkPad T-series we were seeing the Nvidia GeForce 940MX. The successor to this graphics card is the Nvidia GeForce MX150 with 2GB GDDR5. There is also an integrated graphics card which is the Intel UHD 620. The discrete graphics card from Nvidia is optional.
+
+Webcam choices will be tough. Either you can choose to go with a 720p HD camera with the new ThinkShutter feature or you can get a IR camera without ThinkShutter. The IR camera will allow facial recognition, but the ThinkShutter feature will improve your privacy as you can cover up the webcam when not in use. This is a great alternative to using tape.
+
+![](/assets/img/posts/thinkscopes/2018/01/06_Thinkpad_T480_Hero_Front_Forward_Facing_JD_HD_Camera.png)
+
+Battery life is up to 14.5 hours on a dual 24Wh + 24Wh battery. This is slightly higher than its predecessor, the ThinkPad T470.
+
+![](/assets/img/posts/thinkscopes/2018/01/09_Thinkpad_T480_Tour_Right_side_profile.png)
+
+Weight and dimensions remain the same.
+
+I/O Ports:
+
+
+
+ 	
+  * Intel® Thunderbolt™ 3
+
+ 	
+  * USB-C
+
+ 	
+  * 2x USB 3.0
+
+ 	
+  * Headphone and microphone combo jack
+
+ 	
+  * 4-in-1 SD card reader (SD, MMC, SDHC, SDXC)
+
+ 	
+  * HDMI
+
+ 	
+  * RJ45
+
+ 	
+  * Smart card reader
+
+ 	
+  * Nano SIM slot
+
+
+

@@ -1,0 +1,75 @@
+---
+author: jonashendrickx
+date: 2018-01-07 07:00:34+00:00
+slug: ces-2018-thinkpad-x280
+title: 'CES 2018: ThinkPad X280'
+category: lenovo
+---
+The ThinkPad X280 has some significant changes this year, which I find personally unfortunate. I always liked the box look of my ThinkPad X240s.
+
+The graphics card is a Intel UHD 620 which is only slightly faster than the Intel HD 620.
+
+![](/assets/img/posts/thinkscopes/2018/01/02_Thinkpad_X280_Hero_Front_facing_left.png)
+
+The ThinkPad X280 also has two camera options. You can either go with the 720p camera with ThinkShutter, a feature that allows you to cover your webcam to preserve your privacy. Or you can get the IR camera without ThinkShutter that will allow you to use facial recognition. Your choice.
+
+RAM is unfortunately now soldered, so you'll have to configure your ThinkPad X280 wisely when purchasing. Previously there was 1 SODIMM slot, downside to this is that the memory was running in single channel memory. With integrated graphics, this can make a significant difference in performance. That being said, I believe despite the negative opinions about this, the performance gains are well worth it in certain scenario's.
+
+![](/assets/img/posts/thinkscopes/2018/01/12_Thinkpad_X280_Tour_Birdseye_B_C_cover.png)
+
+The ThinkPad X280 no longer uses 2.5" drives, this means, no HDD options. You're left with PCIe SSDs that go nearly 3 to 4 times faster than SATA3.
+
+The battery of the ThinkPad X280 lasts up to 16 hours, which is down from up to 26.9 hours on the ThinkPad X270 with the 3-cell and 6-cell battery (72 Wh). The ThinkPad X280 is now essentially becoming a mini X1 Carbon.
+
+The USB-C port is used for charging the ThinkPad X280 on the left side of the machine.
+
+![](/assets/img/posts/thinkscopes/2018/01/09_Thinkpad_X280_Tour_Left_side_profile_Black.png)
+
+The Thunderbolt 3 port is part of the docking port and can be used to connect with the new [ThinkPad Ultra Docking Station](/blog/2018/01/12/ces-2018-thinkpad-ultra-dock/).
+
+I/O Ports:
+
+
+
+ 	
+  * 2x USB 3.0
+
+ 	
+  * USB Type-C
+
+ 	
+  * Intel® Thunderbolt™ 3
+
+ 	
+  * HDMI
+
+ 	
+  * Native RJ45 with dongle
+
+ 	
+  * Headphone and microphone combo jack
+
+
+With the ThinkPad X1 Carbon we've had the ethernet dongle for quite a few generations providing native ethernet. The ThinkPad X280 now gets that very same dongle.
+
+The WWAN-card is no longer a Sierra Wireless one, we're now seeing Fibocom for the first time. We're still not sure what the Linux compatibility is. But we'll soon find out. Not much is known about these cards yet.
+
+As for the displays, there are several choices:
+
+ 	
+  * HD TN non-touch
+
+ 	
+  * FHD IPS non-touch
+
+ 	
+  * FHD IPS touch
+
+
+The ThinkPad X280 is 110g lighter at 1.16kg in the lightest configuration. Heaviest configuration comes at 1.30kg.
+
+The ThinkPad X280 is also roughly 3mm thinner at 17.4mm!
+
+![](/assets/img/posts/thinkscopes/2018/01/thinkpad_x280_3.jpg)
+
+As I mentioned in the other articles, we are also seeing the quad core 15W Kaby Lake Refresh processors from Intel.

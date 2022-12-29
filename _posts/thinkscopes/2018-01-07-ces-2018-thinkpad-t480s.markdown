@@ -1,0 +1,69 @@
+---
+author: jonashendrickx
+date: 2018-01-07 07:00:28+00:00
+slug: ces-2018-thinkpad-t480s
+title: 'CES 2018: ThinkPad T480s'
+category: lenovo
+---
+The ThinkPad T480s is the ultrabook in the ThinkPad T-series.
+
+The ThinkPad T480s is also getting the quad core processors from Kaby Lake Refresh at 15W TDP. This is combined with up to 24GB DDR4 2400MHz. One SODIMM is removeable, so you can add up to 16GB DDR4. 4GB or 8GB DDR4 2400MHz is soldered and cannot be removed. Because of this, up to 16GB DDR4 is running in dual channel mode, and the remaining 8GB DDR4 will run at single channel speed.
+
+![](/assets/img/posts/thinkscopes/2018/01/02_Thinkpad_T480S_Hero_Front_facing_left_Black.png)
+
+The graphics card is a integrated graphics, a Intel HD 620. Optional is the Nvidia GeForce MX150 with 2GB GDDR5, this is the direct successor to the Nvidia GeForce 940MX.
+
+The ThinkPad T480s no longer has 2.5" drives available and now uses PCIe SSD.
+
+![](/assets/img/posts/thinkscopes/2018/01/09_Thinkpad_T480S_Tour_Left_side_profile.png)
+
+The ThinkPad T480s is also capable of using the new [ThinkPad Ultra Docking Station](/blog/2018/01/12/ces-2018-thinkpad-ultra-dock/). Notice the docking port on the picture above.
+
+The battery life of the ThinkPad T480s is up to 13.5 hours with the 57Wh battery. There is no longer an external battery which can be hot swapped. We now have a single internal battery. The ThinkPad T470s had a 23Wh internal and 26Wh external battery giving us a meager 10.5 hours of battery life. The USB-C port is used for charging. Lenovo discontinues the rectangular proprietary charging port.
+
+Display options are:
+
+
+
+ 	
+  * FHD IPS touch / non-touch
+
+ 	
+  * WQHD (2560x1440) non-touch
+
+
+As with the other ThinkPads, there are two webcam options. You can either go with a 720p camera with the ThinkShutter feature. This feature allows you to cover your webcam. The alternative is a IR camera without ThinkShutter, which allows you to use facial recognition.
+
+The ThinkPad T480s is available in two colors: black and silver. Weight and dimensions of the ThinkPad T480s stay the same.
+
+![](/assets/img/posts/thinkscopes/2018/01/08_Thinkpad_T480S_Tour_Right_side_profile.png)
+
+I/O Ports:
+
+
+
+ 	
+  * Intel® Thunderbolt™ 3
+
+ 	
+  * USB-C
+
+ 	
+  * 2x USB 3.0
+
+ 	
+  * 4-in-1 Micro SD card reader (SD, MMC, SDHC, SDXC)
+
+ 	
+  * Headphone and microphone combo jack
+
+ 	
+  * HDMI
+
+ 	
+  * RJ45
+
+
+![](/assets/img/posts/thinkscopes/2018/01/12_Thinkpad_T480S_Tour_Birdseye_B_C_cover_Black.png)
+
+The WWAN card for the ThinkPad T480s is a CAT9 Sierra Wireless EM7565.

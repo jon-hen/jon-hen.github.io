@@ -1,0 +1,18 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+{%- include dependencies/head.html -%}
+<body>
+  {% include header.html %}
+  <div class="container-fluid">
+    <div class="row">
+      {{ content }}
+    </div>
+  </div>
+  {% include dependencies/javascript_dependencies_post.html %}
+</body>
+
+</html>

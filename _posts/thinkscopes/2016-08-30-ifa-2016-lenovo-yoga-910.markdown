@@ -1,0 +1,105 @@
+---
+author: fbohnacker
+date: 2016-08-30 08:30:11+00:00
+slug: ifa-2016-lenovo-yoga-910
+title: 'IFA 2016: Lenovo Yoga 910'
+category: lenovo
+---
+According to [their own statement](http://b2b.ifa-berlin.com/en/IFA/AboutIFA/), the IFA ("Internationale Funkausstellung") in the German capital Berlin is "the leading trade show for consumer electronics & home appliances". Just like last year, Lenovo will announce quite a few new products at IFA. One of the most outstanding new products is the Lenovo Yoga 910, the successor to the popular Lenovo Yoga 900. Like the Yoga 3 Pro, the Yoga 900 and the Yoga 900S, the Yoga 910 has a signature watchband hinge. However, Lenovo made quite a few improvements. For instance, the Yoga 910 has a new metal unibody chassis. 
+
+
+# Screen
+
+
+[![The Yoga 910 has very narrow display bezels](/assets/img/posts/thinkscopes/2016/08/Yoga-910-Windows-convertible-in-gunmetal-1024x584.png)](/assets/img/posts/thinkscopes/2016/08/Yoga-910-Windows-convertible-in-gunmetal.png) The Yoga 910 has very narrow display bezels
+
+The very narrow display bezels are probably the most eye-catching feature. While the Yoga 910 (323 x 224.5 mm) has nearly the same size as its predecessor (324 x 225 mm), it uses a **13.9" screen** instead of a 13.3" screen. Thus, it has about 9% more screen area than the Yoga 900. That's a great improvement and I hope that other new Lenovo laptops will have very narrow display bezels as well. However, the screen still has a 16:9 aspect ratio. In my opinion, a screen with a 16:10 or 3:2 aspect ratio would have been better as a convertible might be used in portrait mode as well as in landscape mode. 
+
+The Yoga 910 is available with two different IPS screens: a **1920x1080** screen and a **3840x2160** screen. With 316.97 pixels per inch (ppi), the latter has the same pixel density as the 2015 Samsung Galaxy Alpha. As numerous applications don't scale properly (yet) and the 3840x2160 screen greatly reduces the battery life, I would however advise against it unless the 3840x2160 screen is much better than the 1920x1080 screen in terms of brightness, contrast ratio or color gamut. Speaking of contrast ratio: I hope Lenovo didn't make the same mistake as they did with the Yoga 900 that had a screen with a very low contrast ratio. Unfortunately, the Yoga 910 doesn't support Wacom AES pens like the Yoga 900S does.
+
+
+# SoC, RAM, SSD
+
+
+Unsurprisingly, the Yoga 910 uses the all-new Intel Kaby Lake processors from Intel with a TDP (thermal design power) of 15 W. As the Yoga 910 is available with up to 16 GB of RAM, it should be suitable for heavy multi-tasking, running multiple virtual machines or other memory-intensive usage scenarios. Thanks to blazing fast PCIe NVMe SSDs with up to 1 TB, you can store large photo or music collections on your Yoga 910.
+
+
+# Connectivity
+
+
+While the Yoga 900 had a proprietary DC jack that doubles as a USB 2.0 Type A port, the Yoga 910 uses a USB-C port for charging. In my opinion, that's a great improvement. However, it is quite odd that the USB-C port used for charging is a USB 2.0 port according to the spec sheet by Lenovo. That's quite unfortunate if you want to use a USB-C docking station. 
+The second USB-C port is a USB 3.0 port that also supports the so-called DisplayPort alternate mode that allows to use the port as a native video port. In my opinion, it would be better if the Yoga 910 had two Thunderbolt 3 ports instead of one USB 2.0 USB-C port and one USB 3.0 USB-C port as Thunderbolt 3 allows to use external GPUs, two 4K screens at 60 Hz or external PCIe SSDs.
+
+In addition to the above-mentioned USB-C ports, the Yoga 910 has one USB 3.0 Type A port that allows to use legacy USB hardware without an adapter. Furthermore, it has a 3.5mm combo audio jack. Unfortunately, the Yoga 910 seems to lack an SD card reader. While that's a non-issue for me as my camera uses CF cards, it might be quite annoying if your camera uses SD cards.
+
+When it comes to wireless connectivity, the Yoga 910 offers the typical fare with WiFi 802.11ac and Bluetooth 4.1. Sadly, it isn't available with an LTE module.
+
+
+# Keyboard
+
+
+The Yoga 910 has a backlit keyboard that seems to have the same layout as the ultraportable Yoga 900S that I own. In my opinion, that's quite a pity. As the up arrow key is on the left of the right shift key while it is below the right shift key on all my ThinkPads, I'm often hitting it accidentally. Furthermore, the F keys (F1-F12) aren't grouped in three four-key groups which makes it very difficult to distinguish them without looking at the keyboard. To make matters worse, there are no dedicated Home/End and PgUp/PgDown keys. In addition, there are no media control buttons or key combinations while some other Fn key combinations like Fn+F5 or Fn+F8 are pretty much useless. All in all, the keyboard layout leaves a lot to be desired. However, I can't judge the typing experience as I haven't used the Yoga 910 yet.
+
+
+# Biometrics
+
+
+[![The Yoga 910 has a fingerprint reader that is compatible with Windows Hello](/assets/img/posts/thinkscopes/2016/08/Yoga-910-convertible-fingerprint-reader-in-gold.png)](/assets/img/posts/thinkscopes/2016/08/Yoga-910-convertible-fingerprint-reader-in-gold.png) The Yoga 910 has a fingerprint reader that is compatible with Windows Hello
+In contrast to its predecessor, the Yoga 910 features a fingerprint reader that allows to sign in to your device with [Windows Hello](https://support.microsoft.com/en-us/help/17215/windows-10-what-is-hello). While business devices have had fingerprint readers for years, the Yoga 910 is one of the first consumer laptops with a fingerprint reader if I'm not mistaken. You should keep in mind that the security of fingerprint readers used in laptops is often questionable, but using your finger to sign in to your device instead of having to type in a long password sure is quite comfortable. 
+
+
+# Battery life
+
+
+The Yoga 910 has a huge 78 Wh battery. For a 14.3 mm device that weighs just around 1.4 kg, that's really impressive. Compared to the Yoga 900 that has a 66 Wh battery, that's a 18% improvement.
+
+According to Lenovo, the Full HD version of the Yoga 910 will have up to 15.5 hours of battery life while the UHD version will have up to 10.5 hours of battery life. Usually, these values are greatly exaggerated. However, the Full HD version of the Yoga 910 will probably last for a full working day even if you're running CPU-intense tasks from time to time and crank the screen brightness up all the way.
+
+
+# Conclusion
+
+
+All in all, the Yoga 910 seems to be really great. The narrow bezels make the device very attractive, the fingerprint reader is a nice feature and the huge battery is very promising. However, the Yoga 910 would be even better if it had a screen with a 16:10 or 3:2 aspect ratio, an integrated LTE module, a Thunderbolt 3 port and a better keyboard layout. Wacom AES pen support is another great feature that the Yoga 910 lacks. Tell us what you think about the Yoga 910 in the comment section below!
+
+
+# Specifications
+
+
+
+
+
+  * Intel Kaby Lake processors (up to i7), 15 W TDP
+
+  * Intel HD Grapics 620
+
+  * 720p webcam, dual-array microphone
+
+  * Up to 16 GB RAM
+
+  * Up to 1 TB PCIe NVMe SSD
+
+  * JBL stereo speakers with Dolby Audio Premium
+
+  * 13.9" 1920x1080 or 3840x2160 screen with very narrow bezel
+
+  * 78 Wh battery, up to 15.5 hours (FHD)/10.5 hours (UHD) of battery life
+
+  * WiFi 802.11ac
+
+  * Bluetooth 4.1
+
+  * One USB 3.0 Type C port with DisplayPort Alternate Mode
+
+  * One USB 2.0 Type C port with USB Power Delivery
+
+  * One USB 3.0 Typ A Port
+
+  * 3.5 mm combo audio jack
+
+  * touch fingerprint reader with Windows Hello support
+
+  * 323 x 224.5 x 14.3 mm
+
+  * starting at 1.38 kg
+
+
