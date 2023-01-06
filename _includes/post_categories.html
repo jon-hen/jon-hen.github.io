@@ -1,7 +1,0 @@
-<ul class="list-group list-group-flush">
-  {% for tag in site.categories %} {% capture tag_name %}{{ tag | first }}{% endcapture %}
-  <li class="list-group-item">
-    <a href="{{ site.baseurl }}/blog/categories/{{ tag_name }}">{{ tag_name }}</a>
-  </li>
-  {% endfor %}
-</ul>
