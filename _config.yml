@@ -2,9 +2,6 @@ author_me: jonashendrickx
 title: Jonas Hendrickx
 tagline: 'Software Engineer - Father of Twins'
 description: >- # this means to ignore newlines until "baseurl:"
-  'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme
-  that places the utmost gravity on content with a hidden drawer. Made by
-  <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.jonashendrickx.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jonashendrickx
@@ -16,8 +13,8 @@ permalink: /:slug
 # About/contact
 author:
   name: Jonas Hendrickx
-  url: https://twitter.com/mdojonashendrickx
-  email: markdotto@gmail.com
+  url: https://twitter.com/jonashendrickx
+  email: jonashendrickx@outlook.com
 
 # Build settings
 theme: minima
