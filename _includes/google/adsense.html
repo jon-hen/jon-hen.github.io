@@ -1,1 +1,3 @@
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4101620276407169" crossorigin="anonymous"></script>
+{% if site.google_adsense_id %}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{site.google_adsense_id}}" crossorigin="anonymous"></script>
+{% endif %}
