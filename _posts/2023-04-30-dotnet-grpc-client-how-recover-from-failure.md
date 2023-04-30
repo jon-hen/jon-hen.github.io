@@ -207,6 +207,8 @@ If you take a peek back at our GRPC client we've written, you'll notice quickly 
 
 All the rest, should be quite self-explanatory.
 
+You can read more about them here: [here](https://learn.microsoft.com/en-us/aspnet/core/grpc/interceptors?view=aspnetcore-7.0).
+
 {% highlight csharp %}
 using System;
 using System.Diagnostics;
