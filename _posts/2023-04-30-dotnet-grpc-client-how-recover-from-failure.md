@@ -7,10 +7,15 @@ thumbnail: /assets/img/posts/csharp.png
 ---
 ## Introduction
 
-For the article we will be using the following '.proto' file to create our GRPC client. There are several ways you can recover from failure when a call to a third-party API fails, one of them being using Polly. But in this article, we will be talking about how we will be using Redis.
+In distributed computing, failures are inevitable. The ability to handle failures gracefully is critical to building robust systems. In this article, we will explore how to recover from failures when using .NET gRPC clients.
 
-As the '.proto' file shows, we have some considerations to make. We will always be returning the same type 'responseModel'. But the parameters will vary. However all of request objects will inherit from the interface 'IMessage'.
+.NET gRPC is a modern, high-performance framework for building distributed systems. It uses Protocol Buffers as the data serialization format and supports bi-directional streaming. gRPC clients are lightweight and can be used in any .NET application.
 
+Before we can discuss recovery strategies, we need to understand the types of failures that can occur in gRPC communication. These include network failures, service failures, and protocol errors.
+
+There are several strategies that we can use to recover from failures in gRPC clients. One approach is to use a retry mechanism that attempts to reconnect to the server after a configurable delay. Another strategy is to implement circuit-breaking, which temporarily disables communication with the service in case of repeated failures. Finally, we can use a fallback mechanism to switch to an alternative service or data source when the primary service is unavailable.
+
+## The code
 {% highlight proto %}
 syntax = "proto3";
 import "google/protobuf/any.proto";
