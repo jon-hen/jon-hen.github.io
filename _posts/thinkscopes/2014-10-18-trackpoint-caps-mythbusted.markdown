@@ -5,7 +5,7 @@ slug: trackpoint-caps-mythbusted
 title: TrackPoint Caps Mythbusted
 category: lenovo
 tags:
-- TrackPoint
+- Lenovo ThinkPad
 ---
 Lets talk about the TrackPoint! The TrackPoint (aka. "The Nipple" by some, but I prefer sticking to the formal name) is and was always one of the distinguishing ThinkPad features. Its been around since the very beginning of the ThinkPad brand name for Notebooks, and was introduced in October 1992, 22 years ago. Since then, with very, very few exceptions every ThinkPad came with a TrackPoint, and since Lenovo took over the ThinkPad brand, the TrackPoint is even present in the ThinkPad-Logo in form of the red i-dot.
 

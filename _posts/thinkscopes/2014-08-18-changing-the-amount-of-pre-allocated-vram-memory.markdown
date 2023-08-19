@@ -5,8 +5,8 @@ slug: changing-the-amount-of-pre-allocated-vram-memory
 title: Changing the amount of pre-allocated vram memory
 category: lenovo
 tags:
-- Haswell
-- Intel HD Graphics
+- Lenovo ThinkPad
+- Intel
 ---
 If you have an integrated Intel GPU on the ThinkPad T440/T440p/T440s/X240/X1 Carbon/ThinkPad Yoga, etc (anything with Haswell CPU), you have the option to change the pre-allocated memory for your video card.
 

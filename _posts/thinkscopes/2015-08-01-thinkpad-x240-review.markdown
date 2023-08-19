@@ -5,9 +5,7 @@ slug: thinkpad-x240-review
 title: ThinkPad X240 review
 category: lenovo
 tags:
-- Review
-- ThinkPad
-- X240
+- Lenovo ThinkPad
 ---
 Some time ago, I decided to renew my ThinkPad "fleet".  As I travel a lot, I needed a new ultraportable to replace my old X301. Unfortunately, the X301 has several disadvantages like the missing docking port, the abysmal screen, the low performance or the mediocre battery life. First, I thought about getting a T440s or T450s, but some time later, I was able to get a used X240 for less than 400€.
 

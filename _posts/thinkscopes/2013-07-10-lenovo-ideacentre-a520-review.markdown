@@ -5,8 +5,7 @@ slug: lenovo-ideacentre-a520-review
 title: Lenovo IdeaCentre A520 Review
 category: lenovo
 tags:
-- IdeaCentre
-- Lenovo IdeaCentre A520
+- Lenovo IdeaCentre
 ---
 Recently I received a brand new IdeaCentre A520 from Lenovo. This is the first time i have used an IdeaCentre product, and this is second Idea product range that i have used and owned so far (the other one was an IdeaPad Yoga 13). After two weeks of ownership, i have to say that I am very impressed with the IdeaCentre A520, in terms of both design and quality of workmanship. If Lenovo ever decides to sell Idea range of products in Australia, I would definitely be a willing buyer of this product range.
 

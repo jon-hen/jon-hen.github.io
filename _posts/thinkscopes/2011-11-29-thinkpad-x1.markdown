@@ -5,8 +5,7 @@ slug: thinkpad-x1
 title: ThinkPad X1 Review
 category: lenovo
 tags:
-- ThinkPad
-- ThinkPad X1
+- Lenovo ThinkPad
 ---
 
 # [![](/assets/img/posts/thinkscopes/2011/11/lenovo-thinkpad-x1.jpg)](/assets/img/posts/thinkscopes/2011/11/lenovo-thinkpad-x1.jpg)Review

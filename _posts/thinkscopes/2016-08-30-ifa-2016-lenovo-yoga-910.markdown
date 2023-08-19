@@ -4,6 +4,8 @@ date: 2016-08-30 08:30:11+00:00
 slug: ifa-2016-lenovo-yoga-910
 title: 'IFA 2016: Lenovo Yoga 910'
 category: lenovo
+tags:
+- Lenovo Yoga
 ---
 According to [their own statement](http://b2b.ifa-berlin.com/en/IFA/AboutIFA/), the IFA ("Internationale Funkausstellung") in the German capital Berlin is "the leading trade show for consumer electronics & home appliances". Just like last year, Lenovo will announce quite a few new products at IFA. One of the most outstanding new products is the Lenovo Yoga 910, the successor to the popular Lenovo Yoga 900. Like the Yoga 3 Pro, the Yoga 900 and the Yoga 900S, the Yoga 910 has a signature watchband hinge. However, Lenovo made quite a few improvements. For instance, the Yoga 910 has a new metal unibody chassis. 
 

@@ -5,8 +5,7 @@ slug: thinkpad-tablet-2-multitouch-capability
 title: ThinkPad Tablet 2 Multitouch capability
 category: lenovo
 tags:
-- ThinkPad
-- ThinkPad Tablet 2
+- Lenovo ThinkPad
 ---
 The ThinkPad Tablet 2 supports 5 fingers touch (or more precisely five touch points), same as the ThinkPad Edge Twist. Microsoft requires any tablet device that supports Windows 8 to have a minimum of 5 fingers touch support.
 

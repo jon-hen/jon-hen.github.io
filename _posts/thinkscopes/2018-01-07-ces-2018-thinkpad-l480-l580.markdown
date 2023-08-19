@@ -4,6 +4,8 @@ date: 2018-01-07 07:00:21+00:00
 slug: ces-2018-thinkpad-l480-l580
 title: 'CES 2018: ThinkPad L480 & L580'
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 The ThinkPad L-series are considered the budget series of ThinkPad used in corporate environments. The E-series are more aimed at entertainment with their faster GeForce graphics cards. The L-series offer slightly better displays than the E-series.
 

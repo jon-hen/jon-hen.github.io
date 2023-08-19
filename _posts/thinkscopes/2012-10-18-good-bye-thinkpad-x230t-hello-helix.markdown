@@ -4,6 +4,8 @@ date: 2012-10-18 17:56:28+00:00
 slug: good-bye-thinkpad-x230t-hello-helix
 title: Good bye ThinkPad X230t! Hello Helix!
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 [![Lenovo ThinkPad Twist Edge versus ThinkPad X230t](http://farm9.staticflickr.com/8328/8090549118_dcce372c2c_z.jpg)](http://www.flickr.com/photos/60081959@N04/8090549118/)
 

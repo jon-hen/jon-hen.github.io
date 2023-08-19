@@ -4,6 +4,8 @@ date: 2014-04-03 17:02:11+00:00
 slug: lenovo-thinkvision-lt3053p-wide-30-inch-ah-ips-lcd
 title: Lenovo ThinkVision LT3053p Wide (30 inch AH-IPS LCD)
 category: tech
+tags:
+- Lenovo ThinkVision
 ---
 ![ThinkVision LT3053p Wide](/assets/img/posts/thinkscopes/2014/04/8615242794_c47660c769_z.jpg)
 

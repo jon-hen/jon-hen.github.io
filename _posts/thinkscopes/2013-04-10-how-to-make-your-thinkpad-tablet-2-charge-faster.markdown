@@ -5,8 +5,7 @@ slug: how-to-make-your-thinkpad-tablet-2-charge-faster
 title: How to make your ThinkPad Tablet 2 charge faster
 category: lenovo
 tags:
-- ThinkPad
-- ThinkPad Tablet 2
+- Lenovo ThinkPad
 ---
 If you are like me whom is using the ThinkPad Tablet 2 everyday, then most likely you may have been frustrated by the slow charging speed of the TPT2 battery when it is completely switched off, which usually takes around 8 hours to fully charge the battery from 5% to around 95%. So what do you do?
 

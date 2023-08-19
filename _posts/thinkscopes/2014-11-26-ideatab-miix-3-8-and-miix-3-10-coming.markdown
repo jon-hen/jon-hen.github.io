@@ -5,9 +5,7 @@ slug: ideatab-miix-3-8-and-miix-3-10-coming
 title: Lenovo Miix 3 8" and Miix 3 10" coming
 category: lenovo
 tags:
-- Lenovo
-- Lenovo Miix 3 10
-- Lenovo Miix 3 8
+- Lenovo Miix
 ---
 Here are the specifications for the Miix 3 8 and Miix 3 10. Not much is known yet. But here are the most important things you should know for now.
 

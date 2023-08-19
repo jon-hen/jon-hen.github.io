@@ -5,9 +5,7 @@ slug: thinkpad-yoga-14-announced
 title: ThinkPad Yoga 14 announced
 category: lenovo
 tags:
-- Lenovo ThinkPad S3 Yoga
-- ThinkPad
-- ThinkPad Yoga 14
+- Lenovo ThinkPad
 ---
 This week Lenovo had their big "Yoga event" in London, where they announced several new "Yoga" branded products (if you don´t know, Yoga is Lenovos brand name for flippable 360° Convertibles and Tablets with kickstand, the first Yoga 13 Convertible was introduced in 2012). Not only did they introduce 5 new Yoga 2 Tablets and the Yoga 3 Pro, the successor of the Haswell Yoga 2 Pro with a really cool hinge design, but also the new **ThinkPad Yoga 14**. This is not just a refresh of an existing product, but an entirely new product. Not only is it the first 14" seized Yoga, but also the first 14" ThinkPad Convertible. It does not replace the current 12.5" Yoga, it is rather another addition to the product line (the 12.5" Yoga will be refreshed with Broadwell...as well as an rumored new 15.6" TP Yoga). In addition, it is the first ThinkPad Convertible with dedicated graphics.
 

@@ -6,7 +6,6 @@ title: Microsoft announces new Surface Laptop
 category: tech
 tags:
 - Microsoft
-- Surface Laptop
 ---
 The Surface Laptop is not only the first device running Windows 10 S, it's also Microsoft's first laptop based on a traditional clamshell design. Unlike the [Surface Book](https://www.youtube.com/watch?v=XVfOe5mFbAE), it does not detach from the base. Panos Panay, corporate vice president for Surface Computing at Microsoft, introduced the Surface Laptop at the company's Keynote in New York on May 2.
 

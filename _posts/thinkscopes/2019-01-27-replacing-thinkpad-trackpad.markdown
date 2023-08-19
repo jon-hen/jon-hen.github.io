@@ -4,6 +4,8 @@ date: 2019-01-27 04:26:35+00:00
 slug: replacing-thinkpad-trackpad
 title: Replacing the Haswell ThinkPad TrackPad
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 The Haswell generation of ThinkPads had the worst TrackPads you can imagine. Lenovo decided to remove the dedicated TrackPad buttons, also known as dedicated TrackPoint buttons. In this article, we will explain how you can replace the TrackPad with a TrackPad that has 3 dedicated buttons.
 

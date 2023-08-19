@@ -5,7 +5,7 @@ slug: leopold-tenkeyless-fc200rtkb-cherry-brown-mx
 title: Leopold Tenkeyless FC200RT/KB (Cherry Brown MX)
 category: tech
 tags:
-- Leopold Tenkeyless FC200RT/KB (Cherry Brown MX)
+- Keyboard
 ---
 
 **Price:**  $109 AUD (not including the $25 dollars delivery charge)

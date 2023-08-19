@@ -4,6 +4,8 @@ date: 2012-12-22 17:22:42+00:00
 slug: usefulness-of-thinklight-on-a-thinkpad
 title: Usefulness of Thinklight on a ThinkPad
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 ThinkPad was the first laptop to come with a inbuilt LED lighting system to illuminate keyboard for use in the dark. Since then ThinkPadders have came to expect the presence of a Thinklight (or two in W7xx) in their much beloved ThinkPads (although there were some ThinkPads that did without it, i.e. ThinkPad X series Tablet). However, when backlit keyboard came to the market (and popularised by the Macbook Pro) fierce debates started to rage among ThinkPad traditionalists and ThinkPad renaissance supporters, as to whether the ThinkPad still should have Thinklight.
 

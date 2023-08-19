@@ -4,6 +4,8 @@ date: 2016-04-10 14:40:43+00:00
 slug: thinkpad-p50-review
 title: ThinkPad P50 Review
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 ![P50 Hero Image](/assets/img/posts/thinkscopes/2016/04/P50-Hero-Image.jpg)
 

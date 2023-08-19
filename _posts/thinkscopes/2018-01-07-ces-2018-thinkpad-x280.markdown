@@ -4,6 +4,8 @@ date: 2018-01-07 07:00:34+00:00
 slug: ces-2018-thinkpad-x280
 title: 'CES 2018: ThinkPad X280'
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 The ThinkPad X280 has some significant changes this year, which I find personally unfortunate. I always liked the box look of my ThinkPad X240s.
 

@@ -5,7 +5,7 @@ slug: thinkpad-x1-carbon-gen-2-wwan-card-upgrade
 title: ThinkPad X1 Carbon Gen 2 WWAN card upgrade
 category: lenovo
 tags:
-- ThinkPad X1 Carbon
+- Lenovo ThinkPad
 ---
 If you are getting a WWAN card for the ThinkPad X1 Carbon Gen 2, make sure you have the WWAN antenna installed in the machine already. Otherwise, you would have to get the WWAN and WIFI antenna kit and install it yourself, which involves disassembling the whole machine.
 

@@ -4,6 +4,8 @@ date: 2012-11-11 17:37:15+00:00
 slug: why-thinkpad-x1-carbon-doesnt-use-barrel-type-connector
 title: Why ThinkPad X1 Carbon doesn't use barrel type connector?
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 ### If you are the type of person whom owns many ThinkPads like me, you would have countless traditional Lenovo ThinkPad 'barrel' type power adapter. So if you are in the position of buying the X1 Carbon, non of your ThinkPad power adapter could be used, which is a great waste of available resources (ahem...).
 

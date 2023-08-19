@@ -5,8 +5,7 @@ slug: thinkpad-t440s-review
 title: ThinkPad T440s Review
 category: lenovo
 tags:
-- ThinkPad
-- ThinkPad T440s
+- Lenovo ThinkPad
 ---
 ### My experience and thoughts of the Lenovo T440s Ultrabook.
 

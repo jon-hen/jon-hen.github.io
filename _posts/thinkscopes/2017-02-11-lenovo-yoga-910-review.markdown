@@ -5,8 +5,7 @@ slug: lenovo-yoga-910-review
 title: Lenovo Yoga 910 Review
 category: lenovo
 tags:
-- Lenovo
-- Yoga 910
+- Lenovo Yoga
 ---
 _Disclosure: Lenovo sent me this Yoga 910 as part of the Lenovo INsiders program and did not provide additional compensation. All opinions are my own._
 

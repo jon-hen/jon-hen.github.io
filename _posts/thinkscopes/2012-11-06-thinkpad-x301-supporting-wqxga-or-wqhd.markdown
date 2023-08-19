@@ -4,6 +4,8 @@ date: 2012-11-06 17:39:03+00:00
 slug: thinkpad-x301-supporting-wqxga-or-wqhd
 title: ThinkPad X301 supporting WQXGA or WQHD
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 So one of those people whom still have their ThinkPad X301 and want to use the onboard displayport for connecting to LCD greater than single link DVI resolution (i.e. 1920x1200).
 

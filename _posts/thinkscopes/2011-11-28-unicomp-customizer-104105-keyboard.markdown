@@ -5,7 +5,7 @@ slug: unicomp-customizer-104105-keyboard
 title: Unicomp Customizer 104/105 Keyboard
 category: tech
 tags:
-- Unicomp Customizer 104/105 Keyboard
+- Keyboard
 ---
 **Price**: Free (RRP is around $150 USD delivered to Australia)
 

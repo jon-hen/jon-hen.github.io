@@ -4,6 +4,8 @@ date: 2012-12-27 17:16:04+00:00
 slug: thinkpad-w530-lcd-support-on-nvidia-quadro-k2000m-2100m
 title: ThinkPad W530 LCD support on Nvidia Quadro K2000m (2100m)
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 So i have been testing the LCD support on my new ThinkPad W530 with Nvidia Quadro K2000m, and see how many external LCDs it can support concurrently.
 

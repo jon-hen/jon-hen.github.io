@@ -5,9 +5,7 @@ slug: thinkpad-x201-windows-8-1
 title: ThinkPad X201 & Windows 8.1
 category: lenovo
 tags:
-- ThinkPad
-- ThinkPad X201
-- Windows 8.1
+- Lenovo ThinkPad
 ---
 Got my first classic ThinkPad, and decided to use it only for Linux at first. But then I got tempted to install Windows 8.1 on it. What's a very portable laptop without Windows 8 or 8.1? It feels considerably faster than Windows 7 and easy to use on the go.
 

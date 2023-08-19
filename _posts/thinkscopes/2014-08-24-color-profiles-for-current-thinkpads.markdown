@@ -5,8 +5,7 @@ slug: color-profiles-for-current-thinkpads
 title: Color Profiles for current ThinkPads
 category: lenovo
 tags:
-- Color Callibration
-- ThinkPad
+- Lenovo ThinkPad
 ---
 ThinkPad screens are not calibrated by factory - whether TN screens or IPS screen, they have a color miss-alignment in almost every case when you first use them. For example, IPS / AHVA screens like the FHD AUO screen used in the T440s or the Panasonic FHD++ / 3K screen in the W540 often have a greenish or yellowish tint, whereas the common lower end TN screen often have a bluish tint.
 

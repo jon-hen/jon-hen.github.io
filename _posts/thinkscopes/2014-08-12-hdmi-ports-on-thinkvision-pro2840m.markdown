@@ -5,8 +5,7 @@ slug: hdmi-ports-on-thinkvision-pro2840m
 title: HDMI ports on ThinkVision Pro2840m
 category: tech
 tags:
-- ThinkVision
-- ThinkVision Pro2840m
+- Lenovo ThinkVision
 ---
 There are two full sized HDMI ports on the back of the ThinkVision Pro2840m monitor:
 

@@ -7,9 +7,7 @@ title: 'Nokia N1: Nokia returns with the first Android tablet I''d really like t
 category: tech
 tags:
 - Android
-- Nokia
-- Tablet
-- ThinkPad Tablet
+- Mobile Phone
 ---
 Do you remember the announcement Nokia made some days ago on Twitter?
 

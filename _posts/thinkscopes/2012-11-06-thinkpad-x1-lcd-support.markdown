@@ -4,6 +4,8 @@ date: 2012-11-06 17:38:15+00:00
 slug: thinkpad-x1-lcd-support
 title: ThinkPad X1 LCD support
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 So if you got the ThinkPad X1 and want to get multiple external LCD support (i.e. more 2), then this is how you suppose to approach this.
 

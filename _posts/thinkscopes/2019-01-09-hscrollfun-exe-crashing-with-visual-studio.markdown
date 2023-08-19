@@ -4,6 +4,9 @@ date: 2019-01-09 11:56:01+00:00
 slug: hscrollfun-exe-crashing-with-visual-studio
 title: ThinkPad Compact Keyboard driver HScrollFun.exe crashing with Visual Studio
 category: lenovo
+tags:
+- Keyboard
+- Windows
 ---
 When plugging in a ThinkPad Compact Keyboard while Visual Studio is running, you may find that the middle TrackPoint (<del>mouse</del>) button scroll stops working with a small delay. The scrolling will continue to work fine however, as long as you don't open Visual Studio.
 

@@ -5,7 +5,7 @@ slug: ces-2019-thinkpad-e590
 title: 'CES 2019: ThinkPad E590'
 category: lenovo
 tags:
-- thinkpad e590
+- Lenovo ThinkPad
 ---
 If you're at a budget, the ThinkPad E-series are the first in line if you want access to a TrackPoint. Let's what's new for the ThinkPad E590.
 

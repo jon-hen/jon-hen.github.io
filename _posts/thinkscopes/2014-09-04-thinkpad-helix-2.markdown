@@ -5,9 +5,7 @@ slug: thinkpad-helix-2
 title: ThinkPad Helix 2
 category: lenovo
 tags:
-- ThinkPad
-- ThinkPad Helix
-- ThinkPad Helix 2
+- Lenovo ThinkPad
 ---
 The successor to the ThinkPad Helix is coming! And it will feature dedicated buttons for the TrackPad. This is very good news!<!-- more -->
 

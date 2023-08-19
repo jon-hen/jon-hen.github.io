@@ -5,8 +5,7 @@ slug: turning-off-screen-of-ideapad-yoga-2-pro
 title: Turning off screen of IdeaPad Yoga 2 Pro
 category: lenovo
 tags:
-- Lenovo IdeaPad Yoga 2 Pro
-- Yoga 2 Pro
+- Lenovo Yoga
 ---
 For some reason Lenovo Yoga 2 Pro has included some key design elements that is missing in the current ThinkPad. One of the useful feature that the Yoga 2 Pro has, and that the ThinkPad does not, is the Function row shortcut key for switching off the internal LCD without having to close the screen lid.
 

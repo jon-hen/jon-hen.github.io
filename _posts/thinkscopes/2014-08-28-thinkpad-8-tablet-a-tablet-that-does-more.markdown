@@ -5,8 +5,7 @@ slug: thinkpad-8-tablet-a-tablet-that-does-more
 title: ThinkPad 8 Tablet, a tablet that DOes MORE
 category: lenovo
 tags:
-- ThinkPad
-- ThinkPad 8
+- Lenovo ThinkPad
 thumbnail: /assets/img/posts/thinkscopes/2014/08/ThinkPad-8-Tablet.jpg
 ---
 I have being using the ThinkPad 8 Tablet for almost 2 months now, and i have to say that it has being the best Windows 8 tablet that i have ever used so far. I love the build quality and the small size. Basically it is about the same size as my iPad Mini, and yet it can run all the Windows software that my ThinkPad T61 can, which is unbelievable. I have being looking for a full Windows 8 Tablet in the 7 to 8 inch form factor since the start of the 2013, and while the Acer Iconia W3 was the first to come to market with such device, it is severely hampered by the TN LCD that Acer decided to use on the tablet. Many other computer companies like Lenovo waited till the release of Bay Trail Atom SoC to release their 8 inch full Windows 8.1 tablet, rather than coming to market early with the Clover Trail Atom 8 inch tablet. I think Lenovo has done an excellent job with deciding to release the 8 inch ThinkPad Tablet using the new 22 nm Bay Trail Atom SoC, which claims twice the CPU and GPU performance as compared to the previous generation Clover Trail Atom SoC, while at the same time using less battery and generationg less heat, which all important factors to consider in a small tablet.

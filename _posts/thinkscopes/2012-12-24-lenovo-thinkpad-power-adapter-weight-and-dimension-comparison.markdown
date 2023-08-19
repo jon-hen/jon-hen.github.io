@@ -4,6 +4,8 @@ date: 2012-12-24 17:21:27+00:00
 slug: lenovo-thinkpad-power-adapter-weight-and-dimension-comparison
 title: Lenovo ThinkPad power adapter weight and dimension comparison
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 [![Lenovo ThinkPad Power Adapter Size Comparison](http://farm9.staticflickr.com/8353/8302943233_9a04971fb4_z.jpg)](http://www.flickr.com/photos/lead_org/8302943233/) **ThinkPad Power Adapter Size Comparison (65 watts, 90 watts, 135 watts, 170 watts, 230 watts)**
 

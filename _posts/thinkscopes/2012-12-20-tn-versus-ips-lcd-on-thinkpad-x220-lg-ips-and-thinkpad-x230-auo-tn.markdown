@@ -4,6 +4,8 @@ date: 2012-12-20 17:23:23+00:00
 slug: tn-versus-ips-lcd-on-thinkpad-x220-lg-ips-and-thinkpad-x230-auo-tn
 title: TN versus IPS LCD on ThinkPad X220 (LG IPS) and ThinkPad X230 (AUO TN)
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 If you are getting the ThinkPad X220 or ThinkPad X230, and is wondering whether you should be getting the more expensive IPS Premium LCD, then this post should help you make up your mind (hopefully).
 

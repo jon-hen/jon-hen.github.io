@@ -5,9 +5,7 @@ slug: thinkpad-x220-or-thinkpad-x1
 title: ThinkPad X220 or ThinkPad X1?
 category: lenovo
 tags:
-- ThinkPad
-- ThinkPad X1
-- ThinkPad X220
+- Lenovo ThinkPad
 ---
 I guess this is a question that a lot of people asks when trying to buy the latest ThinkPad X series, especially for those whom may not have owned the previous X series ThinkPads (i.e. X301, X201, etc). The decision about which one to purchase is not an easy one to make, especially when there are so many unique and compelling features that exists on a specific machine model. So much so when i was deciding to upgrade my X301 and X200, i was not sure whether i should be getting the 'utilitarian' X220 or the 'uber-sexy' X1. I thought about this over several days and i really liked both of these machines, so much so at one stage i contemplated about getting both of them. But i guess my 'common sense' got the best of me (which doesn't 'commonly' occur with me) and i decided that i only 'needed' only one of these machines (but still 'wanted' both of them), which happened to be the ThinkPad X220. In order to make the decision making process a little easier i constructed a checklist, which listed all the attributes of the laptop that were important to me. Then i evaluated each laptop according to these attributes, the laptop that ticked most number of these boxes would then be mine my new ultraportable workhorse. But after 1 week ordering my ThinkPad X220, i was given a ThinkPad X1 for free, which i gratefully accepted. So after having these two machines and using them for couple of months, i think it is time to write a review to compare these two fine machines.
 

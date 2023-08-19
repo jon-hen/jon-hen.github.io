@@ -5,14 +5,7 @@ slug: lenovo-announces-three-new-thinkpad-x1-models-kaby-lake
 title: Lenovo announces three new ThinkPad X1 models with Kaby Lake
 category: lenovo
 tags:
-- Kaby Lake
-- NVMe
-- Precision Touchpad
-- Thunderbolt 3
-- Windows Hello
-- X1 Carbon
-- X1 Tablet
-- X1 Yoga
+- Lenovo ThinkPad
 ---
 Most of the Kaby Lake ThinkPads (13 2nd Gen, L470, L570, T470, T470p, T470s, T570, X270 and Yoga 370) were already announced some days ago. However, Lenovo didn't announce any new ThinkPad X1 device yet. With today's announcement of three new flagship devices, they finally made up for that.
 

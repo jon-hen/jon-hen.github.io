@@ -4,6 +4,9 @@ date: 2014-08-05 16:45:51+00:00
 slug: windows-cannot-find-drivers-for-your-windows-phone-on-n-kn-editions-of-windows
 title: Windows cannot find drivers for your Windows Phone on N & KN editions of Windows
 category: tech
+tags:
+- Windows
+- Windows Phone
 ---
 Windows Phones, for example Nokia Lumia's work out of the box and do not require extra drivers as far as I know, unlike Android smartphones.
 

@@ -4,6 +4,8 @@ date: 2012-12-24 17:20:38+00:00
 slug: how-to-switch-gpu-graphics-mode-in-the-thinkpad-w530-and-w520
 title: How to switch GPU (graphics) mode in the ThinkPad W530 and W520
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 The easiest way to force ThinkPad W520 and ThinkPad W530 to run with only Nividia discrete or Intel integrated GPU, is to do it through the laptop's BIOS menu. ThinkPad W520 and W530 BIOS menu allows the user to switch between Nvidia Optimus, Integrated Graphics, and Discrete Graphics.
 

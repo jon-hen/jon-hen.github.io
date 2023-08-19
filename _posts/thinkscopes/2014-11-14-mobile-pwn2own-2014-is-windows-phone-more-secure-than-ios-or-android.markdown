@@ -6,15 +6,8 @@ title: 'Mobile Pwn2Own 2014: Is Windows Phone more secure than iOS or Android?'
 category: tech
 tags:
 - Android
-- Exploit
-- Fire Phone
-- Galaxy S5
-- HP
-- iOS
-- Lumia 1520
-- Nexus 5
-- NFC
 - Windows Phone
+- Mobile Phone
 ---
 Hewlett Packard recently organized its yearly [Pwn2Own](http://www.pwn2own.com/) contest, where they reward security researchers for the discovery of security problems and possible exploits on mobile operating systems and platforms.
 

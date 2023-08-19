@@ -5,8 +5,7 @@ slug: using-thinkvision-pro2840m-with-older-thinkpads-with-displayport
 title: Using ThinkVision Pro2840m with older ThinkPads with Displayport
 category: lenovo
 tags:
-- ThinkVision
-- ThinkVision Pro2840m
+- Lenovo ThinkVision
 ---
 If you have an older ThinkPad with displayport, such as:
 

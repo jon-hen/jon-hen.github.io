@@ -5,7 +5,7 @@ slug: chose-thinkpad-music-production
 title: Why I Chose ThinkPad For Music Production
 category: lenovo
 tags:
-- ThinkPad
+- Lenovo ThinkPad
 ---
 [![IMG_20161102_124733](https://c7.staticflickr.com/6/5561/30703747526_f67e8de46f_z.jpg)](https://www.flickr.com/photos/24995561@N05/30703747526/in/dateposted-public/)
 

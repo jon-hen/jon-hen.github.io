@@ -5,8 +5,8 @@ slug: creative-fatal1ty-keyboard
 title: Creative Fatal1ty Keyboard
 category: tech
 tags:
-- Creative Fatal1ty
-- Fatal1ty
+- Gaming
+- Keyboard
 ---
 
 **Score:** 6/10

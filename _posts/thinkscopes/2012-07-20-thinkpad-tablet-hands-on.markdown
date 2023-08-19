@@ -5,8 +5,7 @@ slug: thinkpad-tablet-hands-on
 title: ThinkPad Tablet Hands-On
 category: lenovo
 tags:
-- ThinkPad
-- ThinkPad Tablet
+- Lenovo ThinkPad
 ---
 Peter Barnette here, known as MrPeter1985 on the Lenovo Community Forum (and pretty much anywhere else). I love it there. So here I am to do a review or write if you wish on the ThinkPad Tablet known to us as the TPT.
 

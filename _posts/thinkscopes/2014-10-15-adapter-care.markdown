@@ -5,8 +5,7 @@ slug: adapter-care
 title: Adapter Care
 category: lenovo
 tags:
-- AC Adapter
-- Cable Management
+- Lenovo ThinkPad
 ---
 Hello all. First post for ThinkScopes, but a very crucial one.
 

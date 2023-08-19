@@ -5,12 +5,7 @@ slug: lenovo-thinkpad-x1-carbon-gen-2-review
 title: ThinkPad X1 Carbon Gen 2 Review
 category: lenovo
 tags:
-- ThinkPad
-- ThinkPad X1 Carbon
-- ThinkPad X1 Carbon 2
-- ThinkPad X1 Carbon 2nd Gen
-- ThinkPad X1 Carbon Gen 2
-- ThinkPad X1C2
+- Lenovo ThinkPad
 ---
 This review is written from a programmer's point of view. This means I might be a little more critical of the keyboard layout.
 

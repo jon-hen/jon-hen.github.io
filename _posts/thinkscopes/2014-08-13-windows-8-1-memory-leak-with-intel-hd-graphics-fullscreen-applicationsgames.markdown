@@ -5,8 +5,8 @@ slug: windows-8-1-memory-leak-with-intel-hd-graphics-fullscreen-applicationsgame
 title: Windows 8.1 Memory leak with Intel HD Graphics & fullscreen applications/games
 category: tech
 tags:
-- Intel HD Graphics
-- Windows 8.1
+- Windows
+- Intel
 ---
 ### 1. Description
 

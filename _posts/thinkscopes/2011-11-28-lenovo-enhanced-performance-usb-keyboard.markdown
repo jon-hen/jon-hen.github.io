@@ -5,8 +5,7 @@ slug: lenovo-enhanced-performance-usb-keyboard
 title: Lenovo Enhanced Performance USB keyboard
 category: lenovo
 tags:
-- Lenovo
-- Lenovo Enhanced Performance USB keyboard
+- Keyboard
 ---
 
 **Price:**  $59 AUD (i got it free with the Lenovo 3000 J series desktop)

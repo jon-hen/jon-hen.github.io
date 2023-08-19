@@ -4,6 +4,8 @@ date: 2012-11-05 17:39:33+00:00
 slug: lenovo-thinkpad-t430u-quick-review
 title: Lenovo ThinkPad T430u Quick review
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 ## For the detailed [review of Lenovo ThinkPad T430u](/blog/2012/11/28/lenovo-thinkpad-t430u-in-depth-review/)
 

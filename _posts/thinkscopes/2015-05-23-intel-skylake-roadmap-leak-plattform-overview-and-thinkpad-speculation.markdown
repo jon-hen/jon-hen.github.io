@@ -4,6 +4,8 @@ date: 2015-05-23 12:38:55+00:00
 slug: intel-skylake-roadmap-leak-plattform-overview-and-thinkpad-speculation
 title: Intel Skylake Roadmap leak - plattform overview and ThinkPad speculation
 category: lenovo
+tags:
+- Intel
 ---
 3 days ago, the Chinese techsite [Benchlife](http://benchlife.info/intel-skylake-replace-broadwell-start-from-q3-05202015/) leaked a table, which contains the names and the timeslots for the release of all Skylake CPUs. Skylake is, if you don´t know, the codename for the next Intel microarchitecture, which is the successor to the Haswell microarchitecture and its Broadwell shrink. Skylake is the biggest release for Intel since Sandy Bridge maybe, or even since the first Core 2 Duo CPUs. It was set to be released in the second half of 2015. Now that we have the roadmap, we can take a closer look on the Skylake plattform release timetable:
 

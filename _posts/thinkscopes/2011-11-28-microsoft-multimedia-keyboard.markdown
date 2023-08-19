@@ -5,7 +5,8 @@ slug: microsoft-multimedia-keyboard
 title: Microsoft Multimedia Keyboard
 category: tech
 tags:
-- Microsoft Multimedia Keyboard
+- Microsoft
+- Keyboard
 ---
 
 **Price:** $59 AUD (the price i got it at)

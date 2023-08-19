@@ -5,8 +5,7 @@ slug: thinkpad-compatibility-with-4k-lcd-thinkvision-pro2840m
 title: ThinkPad compatibility with 4K LCD (ThinkVision Pro2840m)
 category: lenovo
 tags:
-- ThinkVision
-- ThinkVision Pro2840m
+- Lenovo ThinkVision
 ---
 I just recently received my first 4K LCD (ThinkVision Pro2840m) from Lenovo Australia, and i have to say this is one of the coolest monitor that i have ever played with in the recent years. But i will defer the actual detailed review of the ThinKVision Pro2840m to another day, this post is merely a short summary list of all the ThinkPad laptops (with Displayport/HDMI) that i have tested with the new ThinkVision 2840m. I have omitted some models from the compatibility list, as i do not own these models and i could not test their compatibility with the new 4K LCD. Following is the list of machines that i have tested, which shows support for the 4K resolution of the new ThinkVision Pro2840m (@30hz):
 

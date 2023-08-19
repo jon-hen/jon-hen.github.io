@@ -9,8 +9,6 @@ tags:
 - Microsoft
 - Windows
 - Windows Phone
-- Windows Phone Store
-- Windows Store
 ---
 Windows & Windows Phone developer accounts now have a one time registration fee instead of the annual registration fee. The registration fee is now on par with Google Play. Will this get you started developing for Windows & Windows Phone?
 

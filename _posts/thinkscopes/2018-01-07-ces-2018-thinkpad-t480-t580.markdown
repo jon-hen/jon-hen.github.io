@@ -4,6 +4,8 @@ date: 2018-01-07 07:00:55+00:00
 slug: ces-2018-thinkpad-t480-t580
 title: 'CES 2018: ThinkPad T480 & T580'
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 
 

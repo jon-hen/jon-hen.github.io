@@ -5,8 +5,7 @@ slug: lenovo-yoga-book-c930-review
 title: Lenovo Yoga Book C930 Review
 category: lenovo
 tags:
-- yoga book
-- yoga book c930
+- Lenovo Yoga
 ---
 Nearly 3 years ago, we received the first generation of the [Yoga Book](/blog/2016/12/08/lenovo-yoga-book-android-review/). Today we were lucky enough to receive the Lenovo Yoga Book C930.
 

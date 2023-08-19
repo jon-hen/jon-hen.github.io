@@ -5,9 +5,7 @@ slug: why-the-thinkpad-yoga-is-the-better-x240
 title: Why the ThinkPad Yoga is the better X240
 category: lenovo
 tags:
-- ThinkPad X240
-- ThinkPad Yoga
-- Yoga vs. X240
+- Lenovo ThinkPad
 ---
 I really like the X240. It's a well rounded, versatile and highly portable notebook with numerous typical ThinkPad qualities. Two years ago, I also owned a X220. It served me well and had some impressive features, such as the ten hour battery life and decent IPS screen. However, it never really amazed me the way some other ThinkPads did. I always used to wonder why that was. I came to the conclusion that this was due to minor details, many of which the X240 and X220 share. Back then, there were no alternatives to the X220. Nowadays though, one might argue that we actually have one: The ThinkPad Yoga (S1). But what makes it better than the X240?
 

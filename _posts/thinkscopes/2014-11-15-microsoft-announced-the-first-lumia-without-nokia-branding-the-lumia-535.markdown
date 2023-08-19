@@ -5,10 +5,8 @@ slug: microsoft-announced-the-first-lumia-without-nokia-branding-the-lumia-535
 title: Microsoft announced the first Lumia without "Nokia" branding, the Lumia 535
 category: tech
 tags:
-- Lumia
 - Microsoft
-- Microsoft Lumia 535
-- Snapdragon
+- Mobile Phone
 - Windows Phone
 ---
 Some days ago, Microsoft announced the [Lumia 535](http://www.microsoft.com/en/mobile/phone/lumia535/), an "affordable [s]martphone with a 5MP [f]ront [c]amera".

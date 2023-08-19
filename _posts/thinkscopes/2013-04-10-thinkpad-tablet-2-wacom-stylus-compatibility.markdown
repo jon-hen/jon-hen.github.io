@@ -5,8 +5,7 @@ slug: thinkpad-tablet-2-wacom-stylus-compatibility
 title: ThinkPad Tablet 2 Wacom Stylus compatibility
 category: lenovo
 tags:
-- ThinkPad
-- ThinkPad Tablet 2
+- Lenovo ThinkPad
 ---
 If you do not like the Wacom pen that comes with your ThinkPad Tablet 2, you can use the Wacom pen that came with the ThinkPad X series tablet (X60, X61t, X200t, X201t, X220t, and X230t). The larger Wacom pen from the ThinkPad X series Tablet is not only easier to grip, it is also more precise then the small Wacom pen that comes with the TPT2.
 

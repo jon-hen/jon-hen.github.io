@@ -4,6 +4,8 @@ date: 2012-12-04 17:24:29+00:00
 slug: switching-thinkpad-graphics-card-in-bios-menu
 title: Switching ThinkPad graphics card in BIOS menu
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 So someone sent me an email asking me how to switch the graphics card in the ThinkPad T430u equipped with the Nvidia GPU (the principle is the same for other ThinkPad with switchable graphics card).
 

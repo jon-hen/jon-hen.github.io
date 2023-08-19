@@ -5,8 +5,7 @@ slug: thinkpad-yoga-review
 title: ThinkPad Yoga Review
 category: lenovo
 tags:
-- ThinkPad
-- ThinkPad S1 Yoga
+- Lenovo ThinkPad
 ---
 The ThinkPad Yoga is a convertible running Windows 8.1 with a 360-degree Yoga hinge. The screen can fold completely backwards until it becomes a tablet. And one of its most special features, never seen before, we present you: the lift-n-lock keyboard.
 

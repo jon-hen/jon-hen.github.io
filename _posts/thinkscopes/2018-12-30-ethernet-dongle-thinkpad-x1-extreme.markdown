@@ -5,7 +5,7 @@ slug: ethernet-dongle-thinkpad-x1-extreme
 title: Which ethernet dongle for ThinkPad X1 Extreme?
 category: lenovo
 tags:
-- ThinkPad X1 Extreme
+- Lenovo ThinkPad
 ---
 As of writing this article, there are two Ethernet dongles (RJ-45) available for the ThinkPad X1 series. This article will explain to you which is the correct Ethernet dongle for the ThinkPad X1 Extreme. We will refer to the available dongles in the article as generation 1 and generation 2.
 

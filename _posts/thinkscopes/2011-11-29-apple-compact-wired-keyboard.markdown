@@ -6,7 +6,7 @@ title: Apple Compact Wired Keyboard
 category: tech
 tags:
 - Apple
-- Apple Compact Wired Keyboard
+- Keyboard
 ---
 [![](](/assets/img/posts/thinkscopes/2011/11/IMG_07582.jpg)](](/assets/img/posts/thinkscopes/2011/11/IMG_07582.jpg)**Price: **$59 when i purchased it from Amazon
 

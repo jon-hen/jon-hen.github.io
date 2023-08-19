@@ -4,6 +4,8 @@ date: 2012-10-29 17:40:50+00:00
 slug: thunderbolt-port-on-thinkpad-t430s
 title: Thunderbolt port on ThinkPad T430s
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 [![Lenovo ThinkPad T430s Thunderbolt port](http://farm9.staticflickr.com/8184/8150862037_5ffdcc8c4b_z.jpg)](http://www.flickr.com/photos/60081959@N04/8150862037/)
 One of the really neat feature of the recent Macbook Pro/Air is the provision of the Thunderbolt port (or two in MBP Retina), these new high speed ports give up to 10 gb/s of transfer speed, which is double of the ExpressCard 2.0 slot. This gives the possibility of connecting high speed external harddrive, large high resolution screens and other devices that need high bandwidth for data transfer.

@@ -4,6 +4,8 @@ date: 2012-12-02 17:25:43+00:00
 slug: thinkpad-t430u-fingerprint-reader-has-no-one-swipe-power-on
 title: ThinkPad T430u Fingerprint Reader has no 'one swipe power on'
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 [![ThinkPad T430u fingerprint reader](http://farm9.staticflickr.com/8341/8191539508_b3a1dafba0_z.jpg)](http://www.flickr.com/photos/lead_org/8191539508/)
 

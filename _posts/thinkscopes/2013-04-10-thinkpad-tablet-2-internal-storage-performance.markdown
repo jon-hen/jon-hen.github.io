@@ -5,8 +5,7 @@ slug: thinkpad-tablet-2-internal-storage-performance
 title: ThinkPad Tablet 2 internal storage performance
 category: lenovo
 tags:
-- ThinkPad
-- ThinkPad Tablet 2
+- Lenovo ThinkPad
 ---
 If you got the ThinkPad Tablet 2, and you are wondering how fast your internal storage is, well the answer is probably going to disappoint you. The internal storage used in the ThinkPad Tablet 2 isn't very fast at all, it has similar read performance (writing speed is equivalent to an old 5 years old hdd) to the platter hdd used in most of the ThinkPad laptop. So if you are expecting blistering quick SATAIII SSD grade performance from your ThinkPad Tablet 2 internal storage then you will be disappointed. But unless you are constantly writing and reading from your TPT2 internal storage, then you wouldn't need to worry about the storage speed issue on your TPT2.
 

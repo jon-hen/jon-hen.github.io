@@ -5,7 +5,7 @@ slug: black-screen-thinkvision-lt1423p-windows-10
 title: Black screen using ThinkVision LT1423p on Windows 10
 category: lenovo
 tags:
-- thinkvision lt1423p
+- Lenovo ThinkVision
 ---
 The ThinkVision LT1423p is a USB3.0 powered portable monitor by Lenovo. It is older than Windows 10, so while setting it up for the first time, we can expect things may not go smoothly. We plugged in the [ThinkVision LT1423p](/blog/2015/08/22/thinkvision-lt1423p-review/), and after the driver was done installing, all my screens were black.
 

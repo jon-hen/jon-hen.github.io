@@ -5,9 +5,8 @@ slug: microsoft-curve-comfort-keyboard-2000
 title: Microsoft Curve Comfort Keyboard 2000
 category: tech
 tags:
-- Comfort Keyboard
+- Keyboard
 - Microsoft
-- Microsoft Curve Comfort Keyboard 2000
 ---
 
 **Price:** $29 AUD

@@ -4,6 +4,8 @@ date: 2012-11-11 17:35:28+00:00
 slug: how-to-solve-ejection-button-issues
 title: How to solve ejection button issues
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 [![ThinkPad T420 Ultrabay](http://farm9.staticflickr.com/8205/8174542414_34bbe005c7.jpg)](http://www.flickr.com/photos/lead_org/8174542414/)
 

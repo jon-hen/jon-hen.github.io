@@ -5,9 +5,8 @@ slug: windows-phone-8-1-developer-preview-new-build-8-10-14203-306-available
 title: 'Windows Phone 8.1 Developer Preview: New Build (8.10.14203.306) available'
 category: tech
 tags:
-- Developer Preview
-- Lumia
 - Microsoft
+- Mobile Phone
 - Windows Phone
 ---
 If you are enrolled in the Windows Phone Preview for Developers program, it's time for you to go to **settings -> phone update -> check for updates**, because Microsoft published Build 8.10.14203.306 recently.

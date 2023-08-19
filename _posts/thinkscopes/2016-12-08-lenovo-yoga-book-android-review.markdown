@@ -4,6 +4,8 @@ date: 2016-12-08 14:05:46+00:00
 slug: lenovo-yoga-book-android-review
 title: Lenovo Yoga Book Android Review
 category: lenovo
+tags:
+- Lenovo Yoga
 ---
 I managed to get my hands on the Android version of the Lenovo Yoga Book. I will be writing a few articles in the next few weeks aimed at developers and users. Subscribe to ThinkScopes if you are interested to learn more about the Lenovo Yoga Book.
 

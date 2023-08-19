@@ -5,8 +5,7 @@ slug: thinkpad-edge-e520-review
 title: ThinkPad Edge E520 Review
 category: lenovo
 tags:
-- ThinkPad
-- ThinkPad Edge E520
+- Lenovo ThinkPad
 ---
 [![ThinkPad Edge E520](/assets/img/posts/thinkscopes/2012/07/7565935002_98e627f953.jpg)](/assets/img/posts/thinkscopes/2012/07/7565935002_98e627f953.jpg)
 

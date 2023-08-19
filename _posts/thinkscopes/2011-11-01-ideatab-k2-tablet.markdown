@@ -5,8 +5,7 @@ slug: ideatab-k2-tablet
 title: IdeaTab K2 Tablet
 category: lenovo
 tags:
-- IdeaTab
-- IdeaTab K2
+- Lenovo IdeaTab
 ---
 Hi readers, my name is Peter 'Pete' Barnette, i am the co-editor of this site and a self proclaimed [Lenovo Tablet Evangelist](http://forum.lenovo.com/t5/Community-Spotlight/In-the-Spotlight-MrPeter1985/ba-p/565767). This is my first post on the Think.Scopes website and hopefully readers will be interested in my opinions and insights into the various Lenovo Tablets and idea branded systems (Editor: Remember to share 50% of all the Lenovo goodies you get!!!).
 

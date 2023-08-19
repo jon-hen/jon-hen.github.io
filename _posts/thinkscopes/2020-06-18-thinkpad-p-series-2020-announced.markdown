@@ -5,6 +5,8 @@ date: 2020-06-18 17:00:00+00:00
 slug: new-thinkpad-p15v-announced
 title: New ThinkPad P15v Announced!
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 ![](/assets/img/posts/thinkscopes/2020/06/thinkpad_p15v_02.jpg)
 

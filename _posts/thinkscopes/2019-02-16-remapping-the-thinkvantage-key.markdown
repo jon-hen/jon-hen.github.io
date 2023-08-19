@@ -4,6 +4,8 @@ date: 2019-02-16 23:01:17+00:00
 slug: remapping-the-thinkvantage-key
 title: Remapping the ThinkVantage key
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 In this article, we will explain to you how you can remap the ThinkVantage key without having the original software installed. Without the ThinkVantage software, the button would otherwise be useless.
 

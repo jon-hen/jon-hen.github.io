@@ -5,10 +5,9 @@ slug: all-lumias-running-windows-phone-8-and-8-1-will-get-update-to-windows-10
 title: All Lumia's running Windows Phone 8 and 8.1 will get update to Windows 10
 category: tech
 tags:
-- Lumia
-- Windows 10
-- Windows Phone 8
-- Windows Phone 8.1
+- Mobile Phone
+- Windows Phone 
+- Windows
 ---
 It was not long ago that Windows Phone 8 was released. Apparently none of the Windows Phones running Windows Phone 7 would get an update to Windows Phone 8 due to significant changes in the kernel. Microsoft received much criticism on this and has now learned from its mistakes. But sometimes it is necessary to make a sacrifice for the greater good.
 

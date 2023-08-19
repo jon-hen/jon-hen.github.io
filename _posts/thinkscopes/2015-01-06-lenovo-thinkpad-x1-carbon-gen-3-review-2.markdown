@@ -5,12 +5,7 @@ slug: lenovo-thinkpad-x1-carbon-gen-3-review-2
 title: ThinkPad X1 Carbon Gen 3 Review
 category: lenovo
 tags:
-- ThinkPad
-- ThinkPad X1 Carbon
-- ThinkPad X1 Carbon 2015
-- ThinkPad X1 Carbon 3rd Gen
-- ThinkPad X1 Carbon Gen 3
-- ThinkPad X1C3
+- Lenovo ThinkPad
 ---
 I am very fortunate to be able to obtain a ThinkPad X1 Carbon Gen 3 (Broadwell) for review on ThinkScopes.com.
 

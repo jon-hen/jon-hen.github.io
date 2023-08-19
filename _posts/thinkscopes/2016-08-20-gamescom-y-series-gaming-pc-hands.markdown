@@ -4,6 +4,8 @@ date: 2016-08-20 12:39:04+00:00
 slug: gamescom-y-series-gaming-pc-hands
 title: 'Gamescom: Y-Series Gaming-PC Hands-On'
 category: lenovo
+tags:
+- Gaming
 ---
 I recently had the opportunity to visit Gamescom. For those of you who don´t know, Gamescom is an annual fair, which takes place in Cologne, Germany, and of course focuses on all gaming related things.
 

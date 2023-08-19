@@ -5,8 +5,7 @@ slug: thinkpad-x1s-influence-on-thinkpad-design-dna
 title: ThinkPad X1 Carbon's influence on ThinkPad Design DNA
 category: lenovo
 tags:
-- ThinkPad X1
-- ThinkPad X1 Carbon
+- Lenovo ThinkPad
 ---
 ## The birth of the ThinkPad X1 Carbon
 

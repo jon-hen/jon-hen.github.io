@@ -5,7 +5,7 @@ slug: lenovo-dual-mode-wireless-touch-mouse-n700
 title: Lenovo Dual-Mode Wireless Touch Mouse N700
 category: lenovo
 tags:
-- Dual-Mode Wireless Touch Mouse N700
+- Mouse
 ---
 The Lenovo Dual-Mode Wireless Touch Mouse N700 was probably designed after the popular Yoga ultrabook convertibles of Lenovo. The idea behind this 'dual-mode' mouse was to have a mouse and a laser presenter in one device. I think the N700 succeeds here.
 

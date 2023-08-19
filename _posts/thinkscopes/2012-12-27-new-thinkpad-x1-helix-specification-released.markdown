@@ -4,6 +4,8 @@ date: 2012-12-27 17:15:27+00:00
 slug: new-thinkpad-x1-helix-specification-released
 title: New ThinkPad X1 Helix Specification Released!
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 Once again thanks to IBMThink from Germany, whom dug up the soon to be released ThinkPad Helix specification from a Chinese user manual (<a href="http://webdoc.lenovo.com.cn/lenovowsi/new_cskb/att/091385/ThinkPad%20X1%20Helix%20和ThinkPad%20X1%20Helix%203G用户指南V1.0.pdf">once again publicly available</a>). The full name of the new product is the ThinkPad X1 Helix, according to the manual the new machine would have the following specification.
 

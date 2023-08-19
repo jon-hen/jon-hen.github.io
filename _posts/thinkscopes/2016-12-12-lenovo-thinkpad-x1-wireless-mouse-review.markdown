@@ -4,6 +4,9 @@ date: 2016-12-12 19:35:39+00:00
 slug: lenovo-thinkpad-x1-wireless-mouse-review
 title: Lenovo ThinkPad X1 Wireless Mouse Review
 category: lenovo
+tags:
+- Lenovo ThinkPad
+- Mouse
 ---
 The Lenovo ThinkPad X1 Wireless Mouse is a luxury mouse that comes at a price. At the time of writing, it was being sold for 60$, which is well above the average price for a mouse. Now the question is how much do you need to pay for a mouse. You can easily pick up a mouse for less than 20$ and make it last several years. That is assuming the mouse wheel doesn't fail. From my experience, the mouse wheel is usually the first component to fail in a mouse. My first impressions of the ThinkPad X1 Wireless Mouse are very good, here is why.
 

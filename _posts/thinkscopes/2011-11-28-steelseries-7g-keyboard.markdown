@@ -5,8 +5,8 @@ slug: steelseries-7g-keyboard
 title: SteelSeries 7G Keyboard
 category: tech
 tags:
-- SteelSeries
-- SteelSeries 7G Keyboard
+- Keyboard
+- Gaming
 ---
 
 **Score:**  8/10

@@ -5,8 +5,7 @@ slug: thinkpad-s3-yoga-14-broadwell-configuration-options
 title: ThinkPad S3 Yoga 14 - Broadwell configuration options
 category: lenovo
 tags:
-- Lenovo ThinkPad S3 Yoga
-- ThinkPad
+- Lenovo ThinkPad
 ---
 The ThinkPad S3 Yoga 14 which is currently released will also be available with Broadwell CPU option soon.
 

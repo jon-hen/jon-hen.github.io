@@ -4,6 +4,8 @@ date: 2018-01-09 07:00:52+00:00
 slug: ces-2018-thinkpad-x1-tablet-gen-3
 title: 'CES 2018: ThinkPad X1 Tablet Gen 3'
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 The X1 Tablet Gen 3 is exciting. The X1 Tablet Gen 2 didn't have any new features. But this year, it's completely different. The modular design is gone, so you don't have to buy any separate modules.
 

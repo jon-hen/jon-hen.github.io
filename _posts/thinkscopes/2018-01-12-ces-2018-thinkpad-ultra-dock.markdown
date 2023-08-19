@@ -4,6 +4,8 @@ date: 2018-01-12 19:15:08+00:00
 slug: ces-2018-thinkpad-ultra-dock
 title: 'CES 2018: ThinkPad Ultra Docking Station'
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 As laptops are getting thinner, we need new solutions for our docking stations. Lenovo came up with the new ThinkPad Ultra Dock or ThinkPad Ultra Docking Station. It connects on the side of the ThinkPad. From the product photo's it looks like the new ThinkPad Ultra Docking Station offers the same features as the docks we were used to in the past. You can lock it into the ThinkPad Ultra Docking Station, and unlock it again with the key set. Then you press the button on the ThinkPad Ultra Docking Station to unmount.
 

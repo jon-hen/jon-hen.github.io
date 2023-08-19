@@ -4,6 +4,8 @@ date: 2018-01-09 07:00:48+00:00
 slug: ces-2018-thinkpad-x1-yoga-gen-3
 title: 'CES 2018: ThinkPad X1 Yoga Gen 3'
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 Not many new features with the Lenovo ThinkPad Yoga Gen 3. We're primarily seeing the same changes as with the [ThinkPad X1 Carbon Gen 6](/blog/2018/01/09/ces-2018-x1-carbon-gen-6/), introducing the ThinkShutter and the 15W quad core processors.
 

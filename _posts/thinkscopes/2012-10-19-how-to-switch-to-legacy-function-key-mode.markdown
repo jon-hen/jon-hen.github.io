@@ -4,6 +4,8 @@ date: 2012-10-19 17:55:53+00:00
 slug: how-to-switch-to-legacy-function-key-mode
 title: How to switch to Legacy Function Key Mode
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 If you just got your ThinkPad Edge laptop, then you maybe aware that the Function keys (i.e. F1 to F12) on the keyboard activates the various multimedia functions rather than the normal F1 to F12 functions. This may or may not suit your needs, depending on the applications you use.
 

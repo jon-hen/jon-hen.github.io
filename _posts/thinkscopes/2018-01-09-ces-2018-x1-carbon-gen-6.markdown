@@ -4,6 +4,8 @@ date: 2018-01-09 07:00:21+00:00
 slug: ces-2018-x1-carbon-gen-6
 title: 'CES 2018: ThinkPad X1 Carbon Gen 6'
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 The ThinkPad X1 Carbon Gen 6 isn't going through many changes this year.
 

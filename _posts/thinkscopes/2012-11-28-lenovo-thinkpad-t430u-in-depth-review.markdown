@@ -4,6 +4,8 @@ date: 2012-11-28 17:26:35+00:00
 slug: lenovo-thinkpad-t430u-in-depth-review
 title: Lenovo ThinkPad T430u in-depth review
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 [![T430u_hero_01](http://farm9.staticflickr.com/8346/8182190127_7c0e501028_z.jpg)](http://www.flickr.com/photos/lead_org/8182190127/)
 

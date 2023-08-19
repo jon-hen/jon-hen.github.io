@@ -5,9 +5,7 @@ slug: thinkpad-edge-e455-e555-hit-the-market
 title: ThinkPad Edge E455 & E555 hit the market
 category: lenovo
 tags:
-- ThinkPad
-- ThinkPad Edge E455
-- ThinkPad Edge E555
+- Lenovo ThinkPad
 ---
 As the first models of the T/X/W/L/Ex5x generation, E455 and E555 did hit the market not long ago. E455 is already available in China and E555 is already orderable here in Germany (will be available in late October).
 

@@ -4,6 +4,9 @@ date: 2016-12-22 22:35:53+00:00
 slug: thinkpad-x1-wireless-touch-mouse-review
 title: ThinkPad X1 Wireless Touch Mouse Review
 category: lenovo
+tags:
+- Lenovo ThinkPad
+- Mouse
 ---
 [![IMG_20161215_125547](https://c3.staticflickr.com/1/313/31642965922_c1c3562d81_z.jpg)](https://www.flickr.com/photos/24995561@N05/31642965922/in/dateposted-public/)
 

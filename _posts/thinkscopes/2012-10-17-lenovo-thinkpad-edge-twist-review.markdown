@@ -5,8 +5,7 @@ slug: lenovo-thinkpad-edge-twist-review
 title: Lenovo ThinkPad Edge Twist Review
 category: lenovo
 tags:
-- ThinkPad
-- ThinkPad Edge Twist
+- Lenovo ThinkPad
 ---
 **Price:** $1199 to 1299 AUD (suggested, but may change).
 

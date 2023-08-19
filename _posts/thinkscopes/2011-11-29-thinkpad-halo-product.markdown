@@ -4,6 +4,8 @@ date: 2011-11-29 07:10:17+00:00
 slug: thinkpad-halo-product
 title: ThinkPad Halo Product
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 Lenovo was not a brand that many people were familiar with outside of China prior to its acquisition of IBM PC division (Think product brand) for $1.75 billion USD in 2005. This bold move by Lenovo to acquire the most well known PC brand name from IBM took many people by surprise. But the sell of the PC division by IBM was to be expected, since IBM was losing lot of money on its PC unit, and they had been devolving from the PC business for a while already, with the sale of printing, keyboard, harddrive and LCD manufacturing units prior to putting the PC business up for sale.
 

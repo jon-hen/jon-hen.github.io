@@ -5,8 +5,7 @@ slug: thinkstation-s20
 title: ThinkStation S20
 category: lenovo
 tags:
-- ThinkStation
-- ThinkStation S20
+- Lenovo ThinkStation
 ---
 # **Introduction**
 

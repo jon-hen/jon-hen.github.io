@@ -6,7 +6,7 @@ title: HP VoodooDNA Lycosa Keyboard
 category: tech
 tags:
 - HP
-- HP VoodooDNA Lycosa Keyboard
+- Keyboard
 ---
 
 **Price:** $80 (that is how much i paid for the keyboard)

@@ -5,6 +5,8 @@ date: 2020-06-18 17:00:00+00:00
 slug: thinkpad-buying-guide-2020
 title: ThinkPad Buying Guide 2020
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 ## Naming Conventions
 

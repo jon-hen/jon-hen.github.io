@@ -5,8 +5,7 @@ slug: thinkpad-x1-hybrid
 title: ThinkPad X1 Hybrid
 category: lenovo
 tags:
-- ThinkPad
-- ThinkPad X1
+- Lenovo ThinkPad
 ---
 ThinkPad X1 Android/Windows OS Hybrid is coming to town!
 

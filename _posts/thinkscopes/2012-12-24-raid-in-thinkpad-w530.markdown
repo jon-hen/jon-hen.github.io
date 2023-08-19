@@ -4,6 +4,8 @@ date: 2012-12-24 17:22:00+00:00
 slug: raid-in-thinkpad-w530
 title: RAID in ThinkPad W530
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 I recently acquired a ThinkPad W530 with the following specification.
 

@@ -5,7 +5,7 @@ slug: ces-2019-thinkpad-x1-carbon
 title: 'CES 2019: ThinkPad X1 Carbon'
 category: lenovo
 tags:
-- ThinkPad X1 Carbon
+- Lenovo ThinkPad
 ---
 The ThinkPad X1 Carbon's design will get some minor changes in 2019.
 

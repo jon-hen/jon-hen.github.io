@@ -5,8 +5,7 @@ slug: what-to-expect-of-broadwell-thinkpads-predictions-for-early-2015
 title: What to expect of Broadwell ThinkPads - Predictions for early 2015
 category: lenovo
 tags:
-- Broadwell
-- ThinkPad
+- Lenovo ThinkPad
 ---
 Its November now, and the leaves are falling fast now here in Germany. Its getting colder and the end of the year is coming fast. In my last article about future ThinkPads (see: [Broadwell postponed, so are Broadwell ThinkPads](/blog/2014/09/05/broadwell-postponed-so-are-broadwell-thinkpads/)), I have already talked about some general details which models will be announced and when. CES will be the big ThinkPad-show for Lenovo early next year, as well as the big Broadwell-show for notebooks in general. We will see many flavors of Broadwell Ultrabooks there, some with small screen, some with big screens, and some with a graphite-black chassis and a red TrackPoint! This time, I want to focus more on what we can expect and what I think we can expect. Lets get right into the fun....
 

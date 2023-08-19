@@ -5,8 +5,7 @@ slug: thinkpad-x1-carbon-gen-2-sim-card-size
 title: ThinkPad X1 Carbon Gen 2 SIM Card Size
 category: lenovo
 tags:
-- ThinkPad
-- ThinkPad X1 Carbon
+- Lenovo ThinkPad
 ---
 ![ThinkPad X1 Carbon SIM card size](/assets/img/posts/thinkscopes/2014/08/sim-card-size.jpg)
 

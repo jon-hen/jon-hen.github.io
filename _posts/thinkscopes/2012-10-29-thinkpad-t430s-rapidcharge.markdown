@@ -4,6 +4,8 @@ date: 2012-10-29 17:55:20+00:00
 slug: thinkpad-t430s-rapidcharge
 title: ThinkPad T430s RapidCharge
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 So it has came to my attention that Lenovo North America does not offer the 4 cells rapidcharge battery option on their eCommerce website, and some of the T430s owners are getting confused as to which batteries have RapidCharge feature.
 

@@ -5,8 +5,7 @@ slug: lenovo-thinkpad-edge-e320-review
 title: Lenovo ThinkPad Edge E320 Review
 category: lenovo
 tags:
-- ThinkPad
-- ThinkPad Edge E320
+- Lenovo ThinkPad
 ---
 ![ThinkPad Edge E320 marketing shoot](/assets/img/posts/thinkscopes/2014/07/7562147470_21bf25ba2f.jpg)
 

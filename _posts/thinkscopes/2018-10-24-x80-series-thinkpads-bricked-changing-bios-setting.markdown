@@ -4,6 +4,8 @@ date: 2018-10-24 10:22:01+00:00
 slug: x80-series-thinkpads-bricked-changing-bios-setting
 title: x80-series ThinkPads bricked by changing a BIOS setting
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 After installing Ubuntu could brick ThinkPads, it looks like we are getting another round of UEFI/BIOS issues on ThinkPads. Several models in the current ThinkPad lineup can be bricked by enabling the BIOS setting '**BIOS Support for Thunderbolt**' or '**Thunderbolt BIOS Assist**'. After changing this setting, there is a huge chance the machine will hang upon rebooting.
 

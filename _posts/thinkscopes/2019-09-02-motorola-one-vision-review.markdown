@@ -4,6 +4,8 @@ date: 2019-09-02 12:32:08+00:00
 slug: motorola-one-vision-review
 title: Motorola One Vision Review
 category: lenovo
+tags:
+- Mobile Phone
 ---
 I've been waiting long for an Android One phone that was just about the right price with an adequate camera. The Motorola One Vision is not perfect, but it's probably one of the most fun mid-range phones I've owned to date. Let me tell you why you should purchase one.
 

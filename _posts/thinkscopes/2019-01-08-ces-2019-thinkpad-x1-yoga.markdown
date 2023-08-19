@@ -5,7 +5,7 @@ slug: ces-2019-thinkpad-x1-yoga
 title: 'CES 2019: ThinkPad X1 Yoga Gen 4'
 category: lenovo
 tags:
-- thinkpad x1 yoga
+- Lenovo ThinkPad
 ---
 The ThinkPad X1 Yoga Gen 4's design will be completely overhauled in 2019, making it essentially a clean sheet design.
 

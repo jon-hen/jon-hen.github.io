@@ -5,7 +5,7 @@ slug: ifa-2018-thinkpad-x1-extreme
 title: 'IFA 2018: ThinkPad X1 Extreme'
 category: lenovo
 tags:
-- ThinkPad X1 Extreme
+- Lenovo ThinkPad
 ---
 With the introduction of the ThinkPad P1 and ThinkPad X1 Extreme, Lenovo introduces two new power houses in the sub 1.8kg portfolio. You can expect the highest quality of materials being carbon-fiber, glass-fiber and a aluminum alloy.
 

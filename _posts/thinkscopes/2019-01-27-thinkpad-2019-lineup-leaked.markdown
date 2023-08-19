@@ -4,6 +4,8 @@ date: 2019-01-27 12:32:01+00:00
 slug: thinkpad-2019-lineup-leaked
 title: ThinkPad 2019 lineup leaked
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 We were very fortunate to find the leaked ThinkPad roadmap with Whiskey Lake for 2019. You can find the source at the bottom of the article. There has been a lot of silence surrounding the release date. We were already aware that new models might be delayed until summer, but we now finally have confirmation.
 

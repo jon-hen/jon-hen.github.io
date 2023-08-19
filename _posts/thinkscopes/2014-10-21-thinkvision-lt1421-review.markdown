@@ -5,8 +5,7 @@ slug: thinkvision-lt1421-review
 title: ThinkVision LT1421 Review
 category: lenovo
 tags:
-- Lenovo ThinkVision LT1421
-- ThinkVision
+- Lenovo ThinkVision
 ---
 # Package Contents
 

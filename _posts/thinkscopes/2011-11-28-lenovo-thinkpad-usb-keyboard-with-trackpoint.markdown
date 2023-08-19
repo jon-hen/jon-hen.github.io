@@ -5,7 +5,8 @@ slug: lenovo-thinkpad-usb-keyboard-with-trackpoint
 title: Lenovo ThinkPad USB keyboard with TrackPoint
 category: lenovo
 tags:
-- Lenovo ThinkPad USB keyboard with TrackPoint
+- Lenovo ThinkPad
+- Keyboard
 ---
 
 **Price:** $75 ([Lenovo Australia online store](http://shopap.lenovo.com/SEUILibrary/controller/e/auweb/LenovoPortal/en_AU/catalog.workflow:item.detail?GroupID=38&Code=55Y9003&current-category-id=E9ADAEB6787146E29B78400A33E7FE8A&&hide_menu_area=yes))

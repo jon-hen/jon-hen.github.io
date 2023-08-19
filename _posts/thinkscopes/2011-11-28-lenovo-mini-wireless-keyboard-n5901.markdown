@@ -5,8 +5,7 @@ slug: lenovo-mini-wireless-keyboard-n5901
 title: Lenovo Mini Wireless Keyboard N5901
 category: lenovo
 tags:
-- Lenovo
-- Lenovo Mini Wireless Keyboard N5901
+- Keyboard
 ---
 
 **Price:** $29 (RRP $75)

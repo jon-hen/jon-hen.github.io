@@ -5,8 +5,7 @@ slug: lenovo-thinkpad-usb3-0-dock-review
 title: Lenovo ThinkPad USB3.0 Dock Review
 category: lenovo
 tags:
-- ThinkPad
-- ThinkPad USB3.0 Dock
+- Lenovo ThinkPad
 ---
 [![Lenovo USB 3.0 dock](/assets/img/posts/thinkscopes/2012/08/7751909746_3026d5324c.jpg)](/assets/img/posts/thinkscopes/2012/08/7751909746_3026d5324c.jpg) Lenovo ThinkPad USB 3.0 dock marketing photo
 

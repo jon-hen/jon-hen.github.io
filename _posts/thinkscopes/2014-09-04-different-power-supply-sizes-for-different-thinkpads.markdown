@@ -5,7 +5,7 @@ slug: different-power-supply-sizes-for-different-thinkpads
 title: Different power supply sizes for different ThinkPads
 category: lenovo
 tags:
-- ThinkPad
+- Lenovo ThinkPad
 ---
 Modern ThinkPads come with a vast range of power supplies, gone are the days with the simple [division](http://www.dict.cc/englisch-deutsch/division.html) in 65 W - iGPU and 90 W - dGPU. Since the CPUs in ThinkPads seem to become diversivied with every generation (one or two generations ago, the normal 35 W Dual-Core M-CPUs were the absolute standard, and now, Qud-Core CPUs oand ULV CPUs become more and more important and the old standard mormore irrelevant), Lenovo also introduced more power supply sizes, since "one size fits all" simply does not apply to power supplies.
 

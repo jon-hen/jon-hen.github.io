@@ -5,7 +5,7 @@ slug: how-to-fix-elan-touchpad-latency-bsod-issues
 title: How to fix ELAN Touchpad latency & BSOD issues
 category: lenovo
 tags:
-- thinkpad p52
+- Lenovo ThinkPad
 ---
 This article will help owners with an ELAN touchpad solve their touchpad latency and BSOD issues. The symptoms are that you will notice the mouse pointer moving with a 100ms or larger delay when using the touchpad. Occasionally, you may see a bluescreen or BSOD with error code '**DRIVER_IRQL_NOT_LESS_OR_EQUAL**'. Minidumps will point to '**ETD.sys**', which is the ELAN touchpad driver.
 

@@ -5,8 +5,8 @@ slug: broadwell-postponed-so-are-broadwell-thinkpads
 title: Broadwell postponed, so are Broadwell ThinkPads
 category: lenovo
 tags:
-- Broadwell
-- ThinkPad
+- Lenovo ThinkPad
+- Intel
 ---
 With the release of the new ThinkPad Helix 2, Lenovo has finally revealed its first Broadwell based ThinkPad - but you might have expected more of IFA, like T450 or something like that. But fret not - as they are definitely coming, just a little later than originally expected. The reasons is Intel - you may not know this, but originally, Broadwell full scale production was expected for mid 2014 or the end of Q2 2014, as were the new ThinkPads (ThinkPad model update follows Intel CPU tick tock cycle). However, Intel had major problems with the yield rate of the Broadwell CPUs due to the new 14 nm manufacturing process, which resulted in several delays. The good news is that the new Broadwell chipset has arrived, but only in the Core M ultra-ultra low powered CPU format (this new cpu chipset has allowed the Helix 2 to be fanless).
 

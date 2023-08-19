@@ -5,7 +5,7 @@ slug: should-you-get-the-backlit-version-of-the-thinkpad-precision-keyboard
 title: Should you get the backlit version of the ThinkPad Precision Keyboard?
 category: lenovo
 tags:
-- ThinkPad
+- Lenovo ThinkPad
 ---
 First, a short history lesson: ThinkPads have had a long history with factory shipped illuminated keyboards. In fact, the first ThinkPad with an illuminated keyboard was the ThinkPad i-Series 1400, a small-business ThinkPad introduced to the market in August of 1999. This was the birth of the **ThinkLight**. Most of you will know what the ThinkLight is, but for those of you who don't: The ThinkLight is a small overhead light, either a white LED (T-Series/X-Series/W-Series) or a amber LED (R-Series/Z-Series, both discontinued, and some select other models). It is activated on older ThinkPads by pressing FN + PgUp. The ThinkLight was a useful feature if you were working in the dark, it also could illuminate a pice of paper if you wanted to read something
 

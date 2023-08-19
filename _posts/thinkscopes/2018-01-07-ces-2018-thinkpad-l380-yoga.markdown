@@ -4,6 +4,8 @@ date: 2018-01-07 07:00:27+00:00
 slug: ces-2018-thinkpad-l380-yoga
 title: 'CES 2018: ThinkPad L380 Yoga'
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 The ThinkPad L380 Yoga is a completely new model. The ThinkPad Yoga 370 is now moved to the X-series, and will be renamed to [ThinkPad X380 Yoga](/blog/2018/01/13/ces-2018-thinkpad-x380-yoga/). The difference here could be first of all the build quality and the materials used.
 

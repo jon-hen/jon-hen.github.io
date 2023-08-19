@@ -4,6 +4,8 @@ date: 2012-11-10 17:37:46+00:00
 slug: thinkpad-series-3-docking-stationsport-replicator
 title: ThinkPad Series 3 Docking Stations/Port Replicator
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 ### So what are the differences between the Series 3 docking station/port replicator option?
 

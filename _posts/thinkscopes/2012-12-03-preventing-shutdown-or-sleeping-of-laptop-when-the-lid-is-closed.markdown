@@ -3,7 +3,10 @@ author: jinli
 date: 2012-12-03 17:25:04+00:00
 slug: preventing-shutdown-or-sleeping-of-laptop-when-the-lid-is-closed
 title: Preventing shutdown or sleeping of laptop when the lid is closed
-category: lenovo
+category: tech
+tags:
+- Microsoft
+- Windows
 ---
 When you close the lid of your newly shipped ThinkPad and IdeaPad or laptop in general, it would go into sleep, much like an Apple laptops. While with Apple laptop you can't switch off this feature from within the OSX (i.e. have to use Insomnia), this is not the case with the Windows laptop, so i am going to show you how.
 

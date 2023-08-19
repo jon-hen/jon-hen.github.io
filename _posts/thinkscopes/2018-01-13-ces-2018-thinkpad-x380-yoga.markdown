@@ -4,6 +4,8 @@ date: 2018-01-13 08:28:58+00:00
 slug: ces-2018-thinkpad-x380-yoga
 title: 'CES 2018: ThinkPad X380 Yoga'
 category: lenovo
+tags:
+- Lenovo ThinkPad
 ---
 The ThinkPad X380 Yoga is the successor to the ThinkPad 370 Yoga. Lenovo decided to merge the ThinkPad Yoga 260 and ThinkPad Yoga 460 with Kaby Lake into a single ThinkPad Yoga 370. I'm ignoring the 11" models for education here, because those are a different subject. With Kaby Lake, we only had two choices: Either a ThinkPad X1 Yoga or a ThinkPad 370 Yoga. The ThinkPad X1 Yoga is obviously their flagship with the ThinkPad 370 Yoga being the runner up.
 

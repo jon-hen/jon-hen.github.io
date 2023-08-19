@@ -6,7 +6,8 @@ title: Best budget smartphone to buy for Christmas and 2015?
 category: tech
 tags:
 - Microsoft
-- Microsoft Lumia 535
+- Mobile Phone
+- Windows Phone
 ---
 There are plenty of budget smartphones at your disposal. But which one is actually the best? My experience with Android isn't really positive then talking about budget smartphones. They run quite slow and hang half of the time.
 

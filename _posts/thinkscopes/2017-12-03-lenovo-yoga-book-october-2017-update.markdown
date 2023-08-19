@@ -4,6 +4,8 @@ date: 2017-12-03 16:34:30+00:00
 slug: lenovo-yoga-book-october-2017-update
 title: Lenovo Yoga Book October 2017 Update
 category: lenovo
+tags:
+- Lenovo Yoga
 ---
 In October's update for the Lenovo Yoga Book with Android. Users have now received support for the ExFAT filesystem, allowing files bigger than 2GB. This is probably in the wake of Lenovo announcing the new Yoga Book 2.0 with more storage capacity, turning your Yoga Book into a media entertainment system.
 

@@ -6,8 +6,7 @@ title: Why Microsoft skipped Windows 9, and chose Windows 10 for its next OS.
 category: tech
 tags:
 - Microsoft
-- Windows 10
-- Windows 9
+- Windows
 ---
 If we start counting Microsoft's past Windows operating systems, then we already have 9 generations. Many people seem to forget that Windows 8.1 should be considered to be an independent operating system. I am not going to start a discussion here about leaving out MS-DOS versions. Let us just focus on Windows right now.
 

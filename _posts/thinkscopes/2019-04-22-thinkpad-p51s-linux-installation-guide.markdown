@@ -5,9 +5,8 @@ slug: thinkpad-p51s-linux-installation-guide
 title: ThinkPad P51s Linux Installation Guide
 category: lenovo
 tags:
-- fedora
-- linux
-- ThinkPad P51s
+- Lenovo ThinkPad
+- Linux
 ---
 ## 1 Fedora 29
 

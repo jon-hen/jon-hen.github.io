@@ -5,8 +5,7 @@ slug: lenovo-preferred-usb-keyboard
 title: Lenovo Preferred USB Keyboard
 category: lenovo
 tags:
-- Lenovo
-- Lenovo Preferred USB Keyboard
+- Keyboard
 ---
 
 **Price:** $37 AUD RRP (i get them free with my Think branded desktops)

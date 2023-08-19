@@ -5,8 +5,7 @@ slug: thinkpad-helix-review
 title: ThinkPad Helix Review
 category: lenovo
 tags:
-- ThinkPad
-- ThinkPad Helix
+- Lenovo ThinkPad
 ---
 
 

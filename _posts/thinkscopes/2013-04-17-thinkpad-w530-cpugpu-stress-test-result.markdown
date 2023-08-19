@@ -5,8 +5,7 @@ slug: thinkpad-w530-cpugpu-stress-test-result
 title: ThinkPad W530 CPU/GPU stress test result
 category: lenovo
 tags:
-- ThinkPad
-- ThinkPad W530
+- Lenovo ThinkPad
 ---
 I have done some CPU and GPU stress tests on my ThinkPad W530 to test how well the thermal management system removes the heat, when the CPU and GPU are both under 100% load for a prolonged period of time. The thermal management stress tests that i did were conducted using Prime95 and Furmark on all three graphics mode:
 

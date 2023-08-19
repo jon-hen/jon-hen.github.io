@@ -5,12 +5,7 @@ slug: lenovo-announces-new-thinkpad-t470-kaby-lake-thunderbolt-3
 title: Lenovo announces the all-new ThinkPad T470 with Kaby Lake and Thunderbolt 3
 category: lenovo
 tags:
-- Kaby Lake
-- NVMe
-- Precision Touchpad
-- T470
-- Thunderbolt 3
-- Windows Hello
+- Lenovo ThinkPad
 ---
 In the past two years, Lenovo announced most new ThinkPads at the Consumer Electronics Show (CES) in Las Vegas. It was expected that Lenovo would carry on with this tradition. However, Lenovo decided to announce most new Kaby Lake ThinkPads on December 28, some days prior to CES 2017.
 
