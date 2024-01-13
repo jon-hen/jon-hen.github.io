@@ -6,7 +6,7 @@ category: programming
 thumbnail: /assets/img/posts/csharp.png
 ---
 
-While working on Passwordless.dev, we wanted to support multiple databases. At the time of writing this article, we were
+While working on [Passwordless.dev](https://passwordless.dev), we wanted to support multiple databases. At the time of writing this article, we were
 supporting Microsoft SQL Server and Sqlite.
 
 One of the issues we ran into adding migrations using .NET migrations was that, when we were using Sqlite on
